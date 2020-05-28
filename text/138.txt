@@ -1,0 +1,27 @@
+Determinants of Cognitive Function of Elderly Patients Upon Hospitalization
+
+Marquis D. Foreman and C. Bourgiugnon
+
+The spcific aim of this project is to test a longitudinal causal model 
+describing the evolutionary processes of acute confusion across the trajectory 
+of hospitalization for acute illness in older adults. The analysis discussed 
+here is from the first 24-hour period of hospitalization. The sample consists 
+of 310 elderly patients admitted for the treatment of various medical, as 
+opposed to surgical, health problems. The subjects range in age from 65 to 99 
+years, with a mean age of 73.03 years, and are predominately female 67% 
+(n=209), and African-American (n=197 or 64%). Multiple measures of cognitive 
+function and dysfunction were obtained, including the MMSE, CAC-A, A-test, 
+Digit Span, CAM, VAS-C, and GDS. Psychophysiologic determinants of cognitive 
+function and dysfunction were obtained daily and categorized within Levine's 
+Conservation Model of Nursing: the conservation of energy, and structural, 
+personal, and social integrity. Using LISREL, a poor data-model fit was 
+obtained when testing the proposed model with five latent variables cognition, 
+and energy, and structural, personal, and social integrity. The observed 
+variables that should hav eloaded on the latent variable of personal and 
+social integrity seemed to fit with the latent variable of cognition. The 
+final model had good data-model fit with three latent variables of cognition, 
+energy, and structure. The Chi-square = 108.24, df = 87, p =0.061, the GFI = 
+0.936, and the AGFI = 0.912. Thus, upon admission to the hospital it would 
+seem the energy and structural integrity are the primary determinants of 
+cognitive function of elderly patients.
+

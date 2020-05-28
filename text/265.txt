@@ -1,0 +1,27 @@
+Preoperative Morphine is Key in Attenuating Surgery-Induced Increases in Tumor 
+Metastasis
+
+Gayle C. Page and Shamgar Ben-Eliyahu
+
+We have previously shown that analgesic doses of morphine (MOR) attenuate 
+surgery-induced increases in tumor metastasis. This study explored the 
+relative importance of pre- vs postoperative MOR treatments in this paradigm. 
+Natural killer cells control the metastasis of MADB106 tumor cells, a 
+syngeneic mammary adenocarcinoma, in the lungs. Rats underwent either surgery 
+or anesthesia, MOR or its vehicle (VEH) was administered to all rats at 3 
+times: (1) 30 min preoperatively, (2) the end of surgery, and (3) 5h 
+postoperatively. Surgery groups included: surgery/VEH, surgery/MOR (MOR at 
+times 1-3), surgery/before (MOR at time 1), surgery/after (MOR at times 2-3), 
+and surgery/after-total (MOR at times 2 [plus preoperative dose]-3). 
+Anesthesia groups received either MOR or VEH at times 1-3. At 5h 
+postoperative, all rats were injected with radiolabeled MADB106 tumor cells 
+(tail vein), and lungs were removed 14h later to assess their radioactive 
+content. Surgery resulted in a 2-fold increase in tumor cell retention which 
+was significantly attenuated in all surgery groups receiving MOR. Moreover, 
+the groups receiving preoperative MOR benefitted from the MOR treatment more 
+than those receiving MOR only after surgery, and were the only groups that 
+were not significantly higher than the anesthesia/VEH group. These results 
+imply that although postoperative MOR is beneficial,the preoperative 
+administration of MOR is key in optimizing its attenuating effects on surgery-
+induced enhancement of metastasis.
+

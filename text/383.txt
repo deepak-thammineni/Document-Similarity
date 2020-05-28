@@ -1,0 +1,62 @@
+The Effects of Bedrest and Activity on Exygen Balance: A Validation Study for 
+the Nursing Diagnosis of Activity Intolerance
+
+Diane O. Tyler
+
+Introduction: Bedrest and oxygen supply/demand imbalances are identified as 
+key factors associated with poor activity tolerance. Nurses assess tolerance 
+to activity and make judgments about progressive activity levels based on the 
+individual's responses; however, consensus on the indicators of poor tolerance 
+is not well established in the discipline.
+
+Purpose & Design: A descriptive, correlational study with a repeated measures 
+design was employed to validate the indicators and contributing factors 
+associated with activity tolerance. The specific aims of this study were: (1) 
+to describe the physiologic and self-reported responses that occur with the 
+initial post-bedrest activity of chair-sitting in a homogeneous sample of 
+critically ill patients, (2) to examine the relationships between these 
+responses and oxygen supply/demand balance, and (3) to examine the 
+relationship between activity responses and length of bedrest.
+
+Methods: The sample consisted of 25 coronary artery bypass graft patients who 
+had been on continuous bedrest since surgery. The dependent variables were the 
+defining characteristics for the NANDA nursing diagnosis of Activity 
+Intolerance (e.g., heart rate and rhythm, systolic and diastolic blood 
+pressure, dyspnea, fatigue, weakness, and discomfort); each were measured 
+before, during and after the first post-operative chair-sitting activity. Data 
+to calculate oxygen consumption, oxygen delivery, and the oxygen extraction 
+ratio (e.g., ratio of oxygen consumption to delivery which was the indicator 
+of oxygen balance) were also measured at each time period. Descriptive 
+statistics and parametric and nonparametric tests of significance were applied 
+to the data.
+Findings: Small, yet statistically significant, transient changes in 
+physiological and perceptual response patterns were seen in most of the 
+variables. These responses were consistent with adaptations to orthostatic 
+positioning, exertion and sympathetic nervous system stimulation, which are 
+well documented in healthy subjects and other cardiac patients. Few clinically 
+significant changes were found, with most occurring in the postactivity 
+period. Oxygen consumption and extraction increased with activity, and oxygen 
+extraction remained significantiy elevated after 10 minutes of supine rest. 
+Oxygen delivery was below normal, but remained constant throughout the study. 
+Mean time on bedrest was 31 hours. Nonsignificant correlations were found 
+between bedrest and oxygen balance and between these factors and NANDA's 
+defining characteristics.
+
+Implications: The increase in oxygen consumption in the presence of a low 
+oxygen delivery placed the patients at risk for an oxygen supply/demand 
+imbalance. The high tissue oxygen extraction and generally small changes seen 
+in most parameters indicate that the increased oxygen extraction by the 
+tissues was sufficient to maintain homeostasis without necessitating major 
+adjustments in other responses. Thus, oxygen extraction, the measure of oxygen 
+balance in this study, is seen as a contributing factor for activity 
+tolerance. The short duration of bedrest accounted for little variance in the 
+responses to activity and was not identified as a significant factor in the 
+patients' tolerance. Intersubject variability in response patterns was seen 
+and clinically significant changes were found even during postactivity rest, 
+indicating patients require evaluation before, during and after activity to 
+assess for tolerance. The findings document normal and abnormal patterns of 
+adaptation to the stress of activity after bedrest in patients at risk for 
+poor tolerance. They also serve to validate the etiological nature of activity 
+tolerance and to an empirical basis for prescribing and monitoring activity 
+following acute illness.
+

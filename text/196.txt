@@ -1,0 +1,27 @@
+The Validation of a Causal Model of Hospital Staff Nurse Absenteeism
+
+Kathryn L. Hope and Roma Lee Taunton
+
+Absenteeism rates of hospital employees have risen over the last few years, 
+placing a burden on cost, effectiveness, efficiency of the work force. 
+However, a body of research that identifies factors contributing to nurse 
+absenteeism is lacking. The purpose of this study was to validate a causal 
+model of hospital staff registered nurse absenteeism.
+
+The model was built on previous models (i.e., Steers and Rhodes, Brooke) and 
+research findings reported in the literature. Within the model, 
+characteristics of the individual, structural characteristics, and 
+environmental characteristics were hypothesized to affect absenteeism directly 
+or indirectly through the intervening variables of absence culture, job 
+satisfaction, job involvement, and commitment. The convenience sample 
+consisted of 422 full-time, staff registered nurses (64% response rate) 
+employed in two acute care hospitals throughout the study period. The majority 
+of predictor variables were assessed by questionnaires with established 
+reliability and validity. Two absence measures (single-day absence and 
+frequency of absence episodes) were collected over 12 months. Using, 
+structural equation modeling analyses, major findings of the study were as 
+follows: (a) the model was not validated, (b) absence culture was the major 
+predictor of absenteeism, and (c) separate models emerged when hospitals were 
+analyzed individually. The findings from this study support findings from a 
+recent study that found causes of absenteeism to be hospital specific.
+

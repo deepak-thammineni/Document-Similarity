@@ -1,0 +1,24 @@
+Exaggerated Cardiovascular Reactivity: An Early Indicator of Hypertension in 
+Prepubescent African American Children
+
+Jenise V. Gillespie
+
+Exaggerated cardiovascular reactivity (blood pressure [BP] and heart rate [HR] 
+response to stressful stimuli) in children has been shown to be an important 
+predictor of hypertension later in life. Further, we know the prevalence of 
+hypertension in African Americans is twice of European Americans. There is 
+empirical evidence to suggest that aerobic exercise training in adults can 
+help control heart rate and blood pressure responses to the stress induced by 
+acute exercise. Therefore, it may be possible that exercise can help control 
+exaggerated reactivity in children. Unfortunately, there is no literature to 
+describe this in children. This experimental study will use a two group, pre-
+test/post-test design with children assigned at random to the experimental and 
+control groups. The levels of the independent variable will be aerobic 
+exercise training and no aerobic exercise training. The primary dependent 
+variable examined will be reactivity as measured by maximum minus minimum 
+baseline blood pressure and heart rate. In order to examine the difference 
+between the groups in changes in reactivity an ANCOVA will be performed 
+entering the pre-test value as a covariate (alpha set a priori at .05). Should 
+there be a decrease in exaggerated cardiovascular reactivity with exercise 
+training in prepubescent African.
+

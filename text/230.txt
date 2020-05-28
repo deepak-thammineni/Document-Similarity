@@ -1,0 +1,36 @@
+The Effect of Glycopyrrolate Premedication on Postoperative Sore Throat
+
+Patricia Stratelak, W. White, and D. Wenzel
+
+Problem: Most patients given general anesthesia require endotracheal 
+intubation. Most of the literature indicates that > 40% experience a sore 
+throat or hoarseness. Research has demonstrated this pain can be more severe 
+than incisional pain.
+
+Purpose: To compare the incidence and severity of postoperative sore throats 
+in surgical patients receiving and not receiving glycopyrrolate as part of 
+their preoperative medication.
+
+Sample: A convenience sample procedure yielded 198 consenting patients between 
+the ages of 18-65 (x=37, 78% female), classified as ASA I or II, who were 
+undergoing elective, non-ear/nose/throat surgery at a midwestern, suburban 
+community hospital.
+
+Method: Patients were assigned randomly to receive a preoperative injection of 
+meperidine 50-75 mg, hydroxyzine 50 mg and glycopyrrolate 0.2 mg, (Group 1) or 
+similar doses of meperidine and hydroxyzine without glycopyrrolate (Group 2). 
+Twenty to 30 hours postoperatively, a trained RN interviewer, blind to the 
+subject's treatment status, administered the Loeser instrument to determine 
+the presence of a sore throat and its severity.
+
+Results: Postoperative sore throat incidence was significantly higher 
+(Chi-square; P<0.05) in Group 1. Of the patients who did complain of a 
+postoperative sore throat, those who received glycopyrrolate had significantly 
+(Mann-Whitney U Test; P<0.05) greater throat pain than the patients who did 
+not receive glycopyrrolate.
+
+lmplications: Given the previously demonstrated side effects of glycopyrrolate 
+and the declining need for medication induced anticholinergics during 
+anesthesia, this study's finding add to the debate favoring use of the drug 
+only on an as needed basis.
+

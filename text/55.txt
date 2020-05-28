@@ -1,0 +1,26 @@
+Graphical Modeling to Uncover Hidden Relationships in a Multidimensional 
+Problem
+
+Sandra R. Edwardson and Katherine Dean
+
+The availability of desktop computers capable of sophisticated statistical 
+modeling can lead researchers to use methods to analyze data that fail to meet 
+the assumptions of the methods. In a study of self-care behavior in an elderly 
+popalation, a graphical interaction modeling technique (DIGRAM) was contrasted 
+with more widely used statistical techniques. Graphical modeling, a subclass 
+of log linear models, is capable of analyzing large contingency tables and 
+permits examination of hypothesized patterns of associations and dependencies 
+in a multidimensional problem. In contrast to multivariate regression 
+modeling, the technique uses partial correlations and partial covariance 
+structures. It does not assume that variables are continuous and normally 
+distributed, a condition common in studies using psychosocial variables.
+
+The method was applied to data gathered in face-to-face interviews with a 
+sample of 608 elderly people living independently in the community. Subjects 
+were asked to identify symptoms experienced in the prior month and responded 
+to instruments evaluating the symptom experience, social support, and personal 
+functioning. Findings suggest the importance of social connectedness and 
+gender in making appropriate responses to common and potentially serious 
+symptoms. Patterns of relationships were uncovered that may not be discerned 
+by other more conventional analytic methods.
+

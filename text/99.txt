@@ -1,0 +1,32 @@
+Self and nurse Reported Confusion in Hospitalized Older Adults
+
+Leigh Bertholf and J. Billings
+
+Using a prospective, repeated measures design the purpose of this study was: 
+to compare patient completed subjective (self reported) measures and 
+standardized objective measures of acute confusion, and to examine the 
+relationships among subjective measures, standardized mesures and nurse 
+charted data of acute confusion. A sample of 84 hopitalized elderly 
+medical/surgical patients (age 66-92) were assessed each AM and PM for 
+confusion and depression that developed during hospitalization.
+
+Standardized objective tests were used: 1) to measure confusion - Mini-Mental 
+State EExamination (MMSE), and Short Portable Mental Status Questionnaire 
+(SPMSQ); 2) to measure depression - Geriatric Depression Scale (GDS). In 
+addition, Visual Analog Scales for confusion (VAS-C) and depression (VAS-D) 
+provided subjective measurements. Charts were audited for nurse documentation 
+of confusion.
+
+In the first 3 days of hospitalization, descriptive statistics indicate the 
+following: 1) based on objective tests, 6.5-17.5% scored as confused; 2) 22-
+31% self identified some level of confusion; 3) 26-35% self identified some 
+level of depression; 4) nurses identify fewer than 9% as confused; and 5) 88% 
+of the rsponses from the subjects testing confused using the MMSE/SPSMQ, also 
+indicated some level of self-assessed confusion utilizing the VAS-C. No 
+significant correlations were found between MMSE or SPMSQ and VAS-C. High 
+correlations existed in the following: 1) VAS-C and VAS-D (r=0.7497, p<.001); 
+2) VAS-D and GDS scores (r=0.4396, p<.001); and 3) test/retest of VAS-C 
+(r=0.919, p<.001). Data suggest clients can self assess some levels of 
+confusion/depression. Nurse assessment of patient confusion could be improved 
+by using the VAS-C.
+

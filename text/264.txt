@@ -1,0 +1,27 @@
+Predicting Risk of Postoperative Atelectasis/Pneumonia After Abdominal Surgery
+
+Jo Ann Brooks-Brunn
+
+Following abdominal surgery, postoperative atelectasis and pneumonia are 
+frequent and associated with increased morbidity and mortality, hospital 
+length of stay and resource utilization. The purpose of this prospective model 
+building study was to determine which combination of risk factors best 
+predicted the development of atelectasis/pneumonia following abdominal 
+surgery. A multi-criteria definition of atelectasis/pneumonia was used and 15 
+risk factors were assessed. Data collection included a preoperative interview 
+and chest exam followed by daily subject interviews, chest exams and chart 
+reviews on postoperative days 1-6. A sample of 561 subjects was accrued at 4 
+institutions and the incidence of postoperative atelectasis/pneumonia was 
+22.5%. The sample was split using a randomized stratified technique into a 
+model development set (n=400) and model validation set (n=161). Fifteen risk 
+factors with a p < .10 were identified in the zero order correlations of risk 
+factor and outcome. Using logistic regression modeling techniques, 6 risk 
+factors were included in the final model: age > 65 years, BMI > 27, impaired 
+preoperative cognition, history of cancer, current smoker within the past 8 
+weeks, and surgical incision location. Utility of the model was assessed by 
+correct classification (78.5%), sensitivity (23.3%) and specificity (94.5%). 
+The Hosmer-Lemeshow Goodness of Fit Test for the 6 factor model was 5.9029 
+(p=.5511) demonstrating that the model is a good fit over the range of 
+probabilities 00.0-1.0. Validation of the model is in process with a sample of 
+260 subjects (n=161 validation set + 100 new subjects).
+

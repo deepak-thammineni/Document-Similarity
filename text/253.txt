@@ -1,0 +1,26 @@
+Sustained Effects of Relaxing Music on Heart Rate Variability Following Acute 
+Myocardial Infarction
+
+Jill M. White
+
+Acute myocardial infarction (AMI) is the leading cause of death in the United 
+States. Decreased heart rate variability (HRV) is associated with increased 
+morbidity and mortality in this population. Increased anxiety leads to 
+increased sympathetic nervous system activation, resulting in decreased HRV. 
+Studies have demonstrated that music therapy can elicit a relaxation response 
+in those who have recently suffered AMI. Inducing a relaxation response may 
+interrupt or reverse some of the deleterious effects of AMI by increasing 
+vagal tone, thereby increasing HRV. Therefore, the purpose of this exploratory 
+pilot study was to determine the effects of relaxing music on HRV following 
+AMI.
+
+Six newly diagnosed AMI patients were recruited for participation. Four hours 
+of continuously recorded ECG data were collected for each subject. The ECG 
+recording included 30 minutes of baseline data, a 20-minute music session, and 
+approximately 3 hours of post-intervention data. These data were analyzed by 
+means of power spectral analysis with fast Fourier transform. HRV increased by 
+10.4% during the music session and peaked one hour after the intervention, 
+reflecting a 32.4% increase. Baseline levels of HRV returned 1.75 hours after 
+the music session concluded. Further study in this area may provide support 
+for the use of relaxing music as a nursing intervention to increase HRV and 
+reduce mortality and morbidity in the AMI population.

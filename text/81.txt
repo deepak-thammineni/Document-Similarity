@@ -1,0 +1,29 @@
+Development of a Measure of Perceived Stigma in People with HIV Infection
+
+Barbara E. Berger, Felissa L. Cohen, and Carol Estwing Ferrans
+
+Stigmatization is a complex process in which inferences are made about an 
+individual based on his/her possession of a discrediting attribute. Human 
+immunodeficiency virus (HIV) can evoke a strong stigma response because it is 
+communicable and often fatal, and is associated with groups that were already 
+devalued in other ways. To date, most work with HIV-related stigma has used a 
+qualitative approach to explore this phenomenon. This research developed a 
+quantitative instrument measuring stigma as perceived by people with HIV. 
+Items to measure perceived stigma related to HIV were written based on a model 
+derived from the literature on stigma and psychosocial aspects of HIV 
+infection. Items surviving two rounds of content review by experts were 
+retained. In addition to the stigma items, data collection included measures 
+of self-esteem (Rosenberg), depression (CES-D), and social support/social 
+conflict (from the Multicenter AIDS Cohort Study) that had been previously 
+validated with people with HIV. Questionnaire packets were distributed through 
+more than 50 HIV health care sites, service organizations, and support groups 
+in eight states. Packets could be completed at home and returned anonymously 
+by mail. The final sample consisted of 318 questionnaires returned by people 
+with HIV (19% women, 22% African-American, 8% Hispanic). Factor analysis of 
+the 51 stigma items yielded four factors: personalized stigma, disclosure 
+issues, negative self-image, and perceptions of public attitudes toward people 
+with HIV. Correlations with self-esteem, depression, social support, and 
+social conflict supported the construct validity of the scales based on these 
+factors. Extraction of a single higher order factor provided evidence that the 
+instrument measured the general construct of perceived stigma related to HIV.
+

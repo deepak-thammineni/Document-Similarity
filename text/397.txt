@@ -1,0 +1,57 @@
+Concurrent Validity for a Tool to Measure Anxiety in Laboring Women
+
+Elizabeth J. Shaw
+
+Specific Aims: During the past decade a number of interdisciplinary efforts 
+have focused on the role of higher-order mental processes in health and 
+disease. Psycho-biological research has evolved from superficial correlational 
+analyses to a recognition of the indivisible nature of cognitive, affective, 
+and biological processes. Consistent with this paradigm shift, a new category 
+of risk has evolved as a contributing variable in poor perinatal outcomes: 
+stress, both physical and psychosocial (Institute of Medicine, 1985). Maternal 
+anxiety and mood disturbances have now been implicated as etiological 
+antecedents to poor perinatal outcomes. Interventions to mediate the maternal 
+stress response are also being redefined. Anecdotal evidence of the 
+effectiveness of self-regulation techniques such as relaxation, hypnosis, and 
+biofeedback to reduce anxiety is beginning to accumulate in the nursing 
+literature. However, to test hypotheses that self-regulatory and relaxation 
+therapies facilitate psychological and physiological stress reduction, the 
+critical intervening variable of anxiety must be measured. Therefore, the 
+purpose of this study was to establish concurrent validity for a tool to 
+measure anxiety in laboring women. As the VAS was hypothesized as an ideal 
+instrument for use in laboring women, concurrent validity of the VAS was 
+sought through the correlation with a criterion instrument well established in 
+clinical research as a reliable measure of anxiety (SAI).
+
+Subjects: The women participating in this study (N=51) were 14 to 42 years old 
+with a mean age of 23.7 years. The majority of the women were African-American 
+(74.5%). The remaining women were Caucasian, Asian, and Hispanic.
+
+Setting: The study was conducted in the labor and delivery unit of a large 
+teaching hospital in a Southeastern metropolitan city.
+
+Instruments: Two instrments were used in this correlational study: The State 
+Anxiety Inventory and the anxiety visual analogue scale (VAS).
+
+Procedure: The conduct of this study was approved by the institutional review 
+board of the medical cater. Data were collected January-June, 1994. 
+Demographic, obstetrical, labor, and delivery data were collected by patient 
+interview and medical chart review. Laboring women were then asked to rate the 
+intensity of their anxiety at that moment on the VAS and fill out the SAI 
+using a standardized instructional protocol. The order in which the 
+instruments were completed was randomly assigned to control for testing 
+sensitization.
+
+Results: A strong positive correlation was found between the SAI and VAS 
+(0.72; p<.0001). Fifty perceet of the variance in scores on the VAS can be 
+explained by the variance in SAI scores.
+
+Implications: This study provides perinatal researchers focusing on the 
+cognitive and emotive processes underlying poor perinatal outcomes with the 
+validation of a reliable measure of anxiety easy to use in the clinical 
+setting. Rigor in the assessment of metric properties of instruments and 
+methods, and the selection and use of tools with evidence of good reliability 
+and validity, will allow for the placement of a high level of confidence in 
+the findings and interpretations of nursing research (Strickland & Waltz, 
+1986).
+

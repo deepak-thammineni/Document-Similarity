@@ -1,0 +1,26 @@
+Implementation of Pressure Ulcer Prevention in a Medical Center
+
+Barbara Pieper, M. Sugrue, C. Heimann, K. Sprague, and M. Weiland
+
+This prospective, descriptive study examined pressure ulcer prevention 
+strategies implemented in 7 facilities. For 2 months on selected units, all 
+patients were followed until discharged. The Braden Scale was used for risk 
+assessment. Patient assessment forms were developed for the study. Patients 
+followed numbered 694 with 210 being assessed at risk for pressure ulcers at 
+the first data collection point. For all patients, significantly more (p<.05) 
+had a pressure reducing bed surface (at risk, 60%), were found with the head 
+of the bed in low position (at risk, 82%), had a lift sheet (at risk, 60%), or 
+had body lotion (at risk, 63%). Significantly few patients had a bed trapeze 
+(at risk, 13%), positioning wedge (at risk, 26%), incontinence cleaner or 
+barrier ointment (at risk, 21%), heel protection (at risk, 20%), or a chair 
+cushion (at risk, 15%). Patients at risk had significantly (p<.05) few 
+pressure ulcer prevention care plans or charting notations, posted turning 
+schedule, or pressure ulcer educational materials at the bedside. Patients at 
+risk for pressure ulcers had significantly (p<.05) more prevention 
+interventions (M=4.5) than patients not at risk (M=3). Similar statistics were 
+present at the other data collection points. Although nursing interventions 
+are based on patients' assessments, the implementation of prevention 
+interventions was low. These results have implications for quality of care, 
+cost, and legal concerns. Future research should explore factors which affect 
+implementation of pressure ulcer prevention strategies.
+

@@ -1,0 +1,23 @@
+A Descriptive Study of Factors Associated with Late Stage at Diagnosis of 
+Breast Cancer Among Women in Ohio
+
+Rosemary V. Chaudry
+
+Breast cancer accounts for approximately 32% of total cancer incidence and 
+approximately 19% of total cancer deaths among women in Ohio. Because 
+mortality from breast cancer is associated with stage at diagnosis, public 
+health efforts are focused on secondary preventive interventions for early 
+detection. The purpose of this study is to identify groups of women at high 
+risk for under-use of screening mammography by examining the relationships 
+between distribution of stage at diagnosis of breast cancer and correlates of 
+screening mammography utilization, using the distribution of stage at 
+diagnosis as a surrogate measure of screening mammography utilization. The 
+Behavioral Model of Health Services Utilization guided the selection of 
+variables. Data sources include a population-based statewide tumor registry of 
+incident breast cancer cases (N=7018) census data, and health system data. 
+Hierarchical regression analysis and discriminant analysis will be used to 
+identify groups of women at high risk for advanced stage at diagnosis of 
+breast cancer. Study results may be used by public health nurses for 
+assessment of community health status and for targeting resources to high-risk 
+groups of women.
+

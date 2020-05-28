@@ -1,0 +1,31 @@
+Acute Confusion in Hospitalized Elderly Veterans
+
+Bonnie Wakefield
+
+This study will establish estimates of the prevalence, incidence, risk factors 
+for and short term outcomes of acute confusion (AC) in hospitalized elderly 
+veterans (HEV). The specific aims are to: 1) establish estimates of the 
+prevalence and incidence of AC in HEV; 2) identify risk factors associated 
+with the incidence of AC in HEV; 3) determine whether patients with AC during 
+hospitalization experience more adverse outcomes while hospitalized, compared 
+to non-confused patients; and 4) determine whether the clinical and resource 
+outcomes are different between patients experiencing AC during hospitalization 
+compared to non-confused patients. The ultimate goal of this study is to 
+develop a better understanding of the nature, extent, and clinical and 
+resource importance of AC in HEV.
+
+The study uses a prospective cohort design, with a sample drawn from patients, 
+age 65 and older admitted to 1 of 3 medical wards at a midwestern VAMC, who 
+have a predicted length of stay greater than 48 hours. Within 24 hours of 
+admission, eligible patients are screened. Following consent procedures, 
+eligible patients are assessed with the MMSE, NEECHAM scale for acute 
+confusion, Geriatric Depression Scale, and the Clock Drawing Test. Demographic 
+data, risk factors, and outcomes are collected on admission and during the 
+course of the subject's stay in the hospital. Patients are followed for 8 days 
+following admission; patients confused on admission or who become confused 
+during their hospital stay are assessed daily until the confusion clears or 
+discharge. At three and six months after discharge, VA records will be 
+reviewed for data on mortality and readmissions. Data analysis will include 
+descriptive statistics, calculation of prevalence and cumulative incidence 
+rates, odds ratios, multiple logistic regression, ANOVA, and Chi-square.
+

@@ -1,0 +1,54 @@
+Cardiovascular Reactivity During Cognitive Stress in Women Before and After 
+Coronary Artery Bypass Grafts
+
+Judith McFetridge
+
+Data from recent studies have identified female gender as a risk factor for 
+operative mortality during coronary artery bypass grafting (CABG) and for 
+prolonged hospital stay afterwards. Although there is evidence that 
+cardiovascular reactivity in men with ischemic heart disease (IHD) may be 
+associated with an increase in afterload, data are not available to explain 
+the mechanisms associated with cardiovascular reactivity in women. The purpose 
+of this study was to describe cardiovascular reactivity during cognitive 
+stress in women with IHD before and after myocardial reperfusion. The 
+following hypotheses were tested: (a) heart rate (HR), systolic blood pressure 
+(SBP), diastolic blood pressure (DBP), and mean arterial pressure (MAP) will 
+increase significantly from baseline during cognitive stress; (b) stroke 
+volume (SV), cardiac output (CO) and myocardial contractility (MC) will not 
+change significantly from baseline during cognitive stress before CABG but 
+will increase significantly from baseline during cognitive stress following 
+CABG; and (c) total peripheral resistance (TPR) will not change significantly 
+from baseline during cognitive stress prior to CABG, but will decrease 
+significantly from baseline during cognitive stress following CABG.
+
+The study was quasi-experimental with a test-retest design. The independent 
+variable was cognitive stress and the Stroop Color Word Test (SCWT) was used 
+to induce cognitive stress. The dependent variable was cardiovascular 
+reactivity and the empirical indicators were HR, SV, CO, MC, SBP, DBP, MAP, 
+and TPR. The Minnesota Impedance Cardiograph (model 304b) and the Marshall 95 
+sphygmomanometer were used to measure these variables before, during, and 
+after the administration of the SCWT. Forty-two women participated in the 
+study, 21 with IHD and 21 healthy controls. Forty-one subjects were Caucasian, 
+one was African American and the mean age was 66.6 years. Subjects in the IHD 
+group were tested one day prior to CABG and three or five days following CABG, 
+and subjects in the control group were tested on two occasions, one week 
+apart. Multivariate repeated measures analysis of variance was used to test 
+the hypothesis of no change in cardiovascular reactivity during cognitive 
+stress within subject, between subjects, and 
+within-subject-by-between-subjects interaction. The significance level was set 
+at 0.05.
+
+The results of the analysis supported the hypotheses. Heart rate, CO and MAP 
+increased significantly from resting baseline during the SCWT before and after 
+CABG (P<0.05). Stroke volume and myocardial contractility did not change 
+significantly from resting baseline during the SCWT before CABG (p>0.05), but 
+increased significantly from resting baseline following CABG (p<0.05). Total 
+peripheral resistance did not change significantly from resting baseline 
+during the SCWT prior to CABG (p>0.05), but decreased significantly from 
+resting baseline during the SCWT following CABG (p<0.05). The findings in the 
+control group were comparable to those documented in the IHD group following 
+CABG. These findings suggest that afterload may increase during cognitive 
+stress in women with IHD prior to myocardial reperfusion. An increase in 
+afterload in the presence of compromised coronary blood flow places the woman 
+with IHD at risk for myocardial ischemia.
+

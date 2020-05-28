@@ -1,0 +1,56 @@
+Cognitive Status in Medically Hosptialized Patients: Nursing Documentation vs. 
+Standardized Assessment
+
+Elaine Souder
+
+Purpose: Although nursing literature discusses the importance of assessing 
+mental status, little research has addressed nurses' observations of cognitive 
+impairment, or the concordance of nurses' detection of cognitive status and 
+standardized assessment. The purpose of this study was to examine patient 
+charts for nursing documentation of impaired cognitive functioning and compare 
+nursing notations with information gained by standardized measurement.
+
+Subjects: The sample consisted of 42 patients ranging in age from 35-74 years 
+(M= 51.9; SD=10.1) hospitalized on a general medical unit at a university 
+medical center. Inclusion criteria included English-speaking adults receiving 
+medical treatment. Patients who had evidence of altered consciousness, i.e., 
+confusion, dementia, organic brain syndrome, depression, or mental retardation 
+noted on the physician's admission note were excluded from study. Additional 
+exclusion criteria included administration of narcotics within past 24 hours, 
+illiteracy, inability to speak, or difficulty in hearing.
+
+Methods: A prospective descriptive design was utilized for this study. Data 
+were collected by two research assistants. After the first RA determined 
+eligibility, obtained informed consent, and reviewed nursing records, a second 
+RA who was a licensed psychological test examiner blinded to chart 
+information, administered the following standardized assessments: Clock 
+Drawing Test, Neurobehavioral Cognitive State Examination (NCSE), Standardized 
+Mini-Mental State Examination (MMSE), and WAIS Block Design Scale. Data were 
+analyzed and summarized using SPSS software.
+
+Findings: A review of nurses' notes and flow sheets revealed no documentation 
+of impaired cognitive status on the 42 subjects. In fact, each record examined 
+had at least several notations, "alert and oriented x3", but no further 
+information on cognitive status was found.
+
+The Clock Drawing Test, a simple cognitive screening measure, revealed 
+impairment in 24% of the subjects. Similarly, 54% of the sample had 
+significant deficits on one or more sub-scales of the NCSE. The mean MMSE 
+score was 27 (total 30); however, 21% scored 24 or below indicating impaired 
+mental status. On the Block Design, 34% received a scaled score of 6 or below 
+indicating performance two standard deviations below the reference age group.
+
+Interestingly, there was no significant age difference in 20 subjects with 
+impairments in two or more tests (M=53.1, SD=9.9) compared to 22 subjects with 
+normal cognitive performance (M=50.8, SD=10.5), p=.47.
+
+Implications: The absence of nursing documentation of cognitive impairment in 
+the presence of performance deficits on standardized measures may reflect lack 
+of attention to this parameter of functioning or inability to detect cognitive 
+impairment using informal clinical observation skills. These findings suggest 
+that nurses should not assume intact cognitive status when gathering patient 
+data and teaching patients complex medication and treatment regimes. This is 
+especially important in an era of shorter hospitalizations characterized by 
+sicker patients. A simple cognitive screening measure, such as the Clock 
+Drawing Test, would help to identify impaired cognitive status when present.
+

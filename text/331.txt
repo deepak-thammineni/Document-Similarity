@@ -1,0 +1,44 @@
+Determing Scale Properties of Pictorial Scales: How Do You Get From Disney to 
+Decimals?
+
+Dorothy J. Stuppy
+
+Background and significance: Determining a person's perception of the 
+magnitude of subjective sensory stimuli such as dyspnea, fatigue, or pain 
+represents a special challenge to clinical nurses and researchers. Ideal 
+scales would be easy for people to use, be reliable and valid for measuring 
+the concept of interest, and have properties of interval/ratio measurement. 
+Few scales can meet all of these criteria. There is much debate about the 
+level of measurement of Likert type scales and respondents must be able to 
+understand and relate to the anchors used in the response scale. Visual analog 
+scales possess mernc/ratio properties but may not be easily understood by 
+young children, elders, or those from various cultural backgrounds. As a 
+result, there is a need to develop and test alternative scaling models.
+
+Use of a graphic scaling model using picture scales has been suggested for 
+measuring the concept of pain. Most pictorial scales consist of a series of 
+cartoon faces such as those developed in 1988 by Baker and Wong (6 faces), in 
+1990 by Bieri, Reeve, Champion, Addicoat, and Ziegler (7 faces) and in 1985 by 
+McGrath, deVeber, and Heam (9 faces) among others. The scales may also be a 
+series of actual photographs of individuals expressing varying levels of pain 
+(Beyer & Aradine, 1987). While these scales have been developed and tested 
+mainly with children, there is a growing body of evidence that they may also 
+be reliable and valid for self assessment of pain in adults. However, there is 
+a question among researchers about the level of measurement represented by the 
+pictorial scales. On the surface, these scales seem to represent a 
+categorical-rank order level of measurement. However, researchers wishing to 
+analyze data using parametric statistics are attempting to establish interval 
+or ratio properties for the scales.
+
+Purpose of presentation: This presentation will discuss strategies which are 
+being used to determine if intervals between the faces on each of the various 
+scales are equal or if the position of each face on a metric scale can be 
+determined. Research examples of magnitude estimation, cross modal matching 
+and variations on number/line estimation will be presented.
+
+Data from a current study (data collection in progress) of adults from various 
+cultures (African-American, Anglo, and Hispanic) will be presented. The 
+purpose of the study is to establish scale properties, reliability, and 
+validity of the Bieri and Aradine (1987) Faces Pain Scale (FPS) as it is used 
+by lower income adults.
+

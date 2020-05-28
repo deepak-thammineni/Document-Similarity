@@ -1,0 +1,38 @@
+Developing an Instrument to Measure Affect in Cognitively Impaired (CI) 
+Patients
+
+Cornelia K. Beck
+
+Dementia limits people's options for fulfilling the basic psychosocial needs 
+of communication, self-esteem, and autonomy. When these needs remain unmet, 
+the individual may experience decreased emotional well-being as signaled by 
+increased displays of negative affect and decreased displays of positive 
+affect. Measuring the emotional well-being of CI persons is a new research 
+area, so few instruments are available.
+
+To successfully measure affect, researchers must be able to repeatedly observe 
+events. Videotape recordings often re used for this type of research. From a 
+previous study of interventions to decrease disruptive behavior, we have over 
+700 videotaped interactions between dementia patients and interventionists. 
+These videotapes reveal subjects' change in affect over time, but we were 
+unable to locate a suitable instrument for use with our data. Drawing on the 
+literature and our observations of CI persons, we developed the Observable 
+Displays of Affect Scale (ODAS).
+
+We extracted from the literature and available instruments a total of 514 
+words and phrases related to display of affect. Through a three-step process, 
+we distilled these into a 34 item observational tool that a panel of experts 
+evaluated to establish validity. Two trained observers rated five-minute 
+segments of 26 randomly-selected baseline and final treatment week 
+intervention videotapes to establish inter- and intra-rater reliabilities. The 
+ODAS consists of three subscales: facial display, verbal content, and body 
+movement/posture. We tested two interventions in the Disruptive Behavior 
+Study: a psychosocial activities intervention, an activities of daily living 
+intervention, and a combination of the two. In addition, we had a placebo 
+group and a control group. We are using the ODAS to measure the effect of the 
+project's interventions on displays of affect in our subjects by comparing 
+baseline scores to monthly scores over the 12-week intervention period. In 
+this presentation, I will describe the process by which we developed this 
+instrument, present preliminary analysis of the videotapes, and show samples 
+of our videotapes showing affect changes.
+

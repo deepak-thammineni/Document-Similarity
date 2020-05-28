@@ -1,0 +1,18 @@
+Translation Technique: Rules and Issues for Translating Nursing 
+Orders/Interventions to Nursing Interventions Classification (NIC)
+
+Connie Delaney and Sue Moorhead
+
+Nursing is straddling a faultline between the past and the information age. 
+Present day incorporation of standardized nursing language into computerized 
+nursing information systems gives nursing a new power to describe practice and 
+determine its contribution to health care delivery. However, this strategy 
+does not allow nursing to use clinical data stored prior to the development of 
+standardized language. This thus obscures a comparison of the present with the 
+past. The purpose of this paper is to compare and contrast three diverse, 
+independently developed methods for translating nursing orders/interventions 
+into the Nursing Interventions Classification (NIC). Based on a synthesis of 
+these methods, a technique for translating non-standardized nursing 
+orders/interventions into the NIC will be presented. Decision rules and issues 
+inherent within the rules will be discussed.
+

@@ -1,0 +1,48 @@
+Measurement Characteristics of Disability-Related Constructs in Chronically 
+Institutionalized Nursing Home Residents
+
+Eleanor S. McConnell and Carol C. Hogue
+
+Nursing home residents suffer from high levels of dependency in self-care, yet 
+little is known about factors that may be precursors to worsening dependency. 
+Disablement models suggest the present of potentially manipulable variables 
+intervening between disease and disability that may be fruitful points for 
+intervention. Before these models can be fully utilized, adequacy of 
+measurement of disability and related factors in the population of interest 
+must be established. The purpose of this study was to assess the test 
+characteristics of measures of disability and related constructs proposed in 
+the based measures originally developed and tested in populations other than 
+nursing home residents were examined. Research questions were: (1) What is the 
+inter-rater, test-retest, and internal consistency reliability of standardized 
+measures of cognitive performance, strength, range of motion, functional 
+limitation, and disability? and (2) Does each measure perform in nursing home 
+residents in a manner consistent with that reported in other populations? 
+Inclusion criteria were: (1) Over age 60, (2) stands with assistance, (3) 
+follows simple commands, (4) permanent resident of nursing home, (5) not 
+terminally ill or medically unstable, (6) resident or proxy informed consent 
+obtained. Sixteen permanent residents over age 60 from one nursing home 
+participated in the reliability testing. Data from an additional 49 subjects 
+representing two nursing home sites were used to assess the factor structure 
+of each measure. Reliability was assessed using intra-class correlation 
+coefficients (ICCs). Coefficient alpha was calculated as a measure of internal 
+consistency. Exploratory factor analysis using a principal axis factoring 
+technique was used to explore the dimensionality of each measure. Measures 
+obtained included hand-held dynamometry, goniometry, the Neurobehavioral 
+Cognitive Screening Examination (NCSE), the 7-item Physical Performance Test 
+(PPT), and the Functional Independence Measure (FIM). Subjects' functional and 
+cognitive status were similar to nursing home patients nationally, but were 
+more likely to be male (67%), were slightly younger (mean age 76.7, SD=9.13). 
+Findings: All measures had excellent test-retest and inter-rater relability, 
+except two items on the NCSE. Test-retest concordance at one week varied by 
+measure and ranged from ICC=.83 to .91 for range of motion and strength 
+measures, ICC=.32 to .91 for the NCSE, ICC=.80 for teh PPT, and ICC=.71 to .89 
+for teh FIM. Inter-rater reliabilities for all measures ranged from ICC=.80 to 
+.99. Internal consistency of teh NCSE, PPT and FIM was high. Factor structures 
+for each measure were consistent with other measurement work reported on these 
+instruments, except for the NCSE, literature was observed. Implications: Many 
+existing measures of disability and related constructs can be sued reliably in 
+selected nursing home residents. Unresolved issues in using these measures in 
+nursing hom residents include establishing their relationship to self-reported 
+and proxy-reported function, and structuring measurement protocols to minimize 
+respondent burden and missing data.
+

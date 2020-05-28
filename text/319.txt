@@ -1,0 +1,36 @@
+Measuring Emotional Responses to Psychological Stress: Differentiation Between 
+Instrument Unreliability and Changes in Emotional States
+
+Laura A. Porter
+
+Theoretical perspectives on psychological stress and coping emphasize that 
+patients' negative emotional states are likely to fluctuate in response to 
+cognitive appraisal and the effectiveness of coping strategies. Low 
+correlations across time between the same measures of emotional state suggest 
+that the coping process influenced emotion. However, if the instrument to 
+assess emotional response is not reliable, low correlations may also occur and 
+confound results. In contrast, high correlations across time between the same 
+measures of emotional state suggest that emotional reponse is more stable and 
+may reflect the influence of personality. Based on the zero-order Pearson 
+Product Moment Correlations, Heise (1969) proposed a method for calculating 
+both instrument reliability and construct stability which has important 
+applications for coping research.
+
+A secondary data analysis was conducted to illustrate how instrument 
+reliability and stability of emotional responses could be differentiated in a 
+sample of patients coping with percutaneous tranluminal coronary angioplasty 
+(PTCA). Emotional response (measured with the "Unsure" subscale of the Profile 
+of Mood States) was assessed 24 hours prior to the treatment (Time 1), at 
+discharge from the hospital (Time 2) and 2 weeks following discharge (Time 3). 
+The Heise procedure was conducted on the data of 47 patients who completed the 
+measure at all three time points. The sample included 39 men and 8 women with 
+a mean age of 62 years (SD 11). Results indicated that instrument reliability 
+and construct stability could be differentiated. Instrument reliability was 
+moderate at .625. Interestingly, construct stability coefficients across the 
+three time points were as follows S12=.845, S23=.907, and S13=.766. These 
+coefficients were relatively high, particularly from Time 2 to Time 3, 
+suggesting that this emotion was stable across time and that personality may 
+have had a greater influence on emotional response than situational variables. 
+Thus the Heise method was useful in examining the emotional outcome during 
+this stressful event.
+

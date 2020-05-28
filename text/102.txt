@@ -1,0 +1,22 @@
+Measuring Lumbar Flexion with Surface Inclinometers: Validity and Reliability
+
+Daniel G. Samo, Shu-Pi C. Chen, Arthur R. Crampton, Edwin H. Chen, Karen M. 
+Conrad, Linda Schulte, and Joseph Mitton
+
+Three surface methods, Pleurimeter double inclinometer, Carpenter double 
+inclinometer, and Sensor single inclinometer, were used to determine the 
+magnitude of errors in measuring lumbar flexion. Thirty healthy volunteers 
+were examined independently by three health professionals from an occupational 
+health clinic. Each volunteer went through three stations to have lumbar 
+flexion measurements taken using each method. The sequence was repeated. A 
+radiograph was taken during the first sequence.
+
+Results showed that (a) the validity of each method was low based on the 
+radiographic measures, (b) intra-examiner reliability determined by 
+intra-class correlation coefficient (ICC) was below .80 in eight situations 
+and only one examiner using Pleurimeter achieved .901, (c) inter-examiner 
+reliability determined by ICC was below .80 in all six situations, and (d) 
+given a method, the examiner and its interaction terms possessed a large 
+amount of variance based on the generalizability analysis. Further study is 
+needed to compare surface and bone measurements.
+

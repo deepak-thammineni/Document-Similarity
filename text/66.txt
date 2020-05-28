@@ -1,0 +1,33 @@
+Validation of Caltrac and Tritrac-R3D Accelerometers to Estimate Energy 
+Expenditure in Elderly Subjects with Osteoarthritis (OA) of the Knee
+
+Judith C. Bautch
+
+Estimation of routine physical activity levels is an integral component of 
+outcome measurement for special treatment programs as well as in determining 
+functional ability of elderly people with OA of the knee. The purpose of the 
+study was to measure the validity of the Caltrac and Tritrac-R3D 
+(Hemokinetics, Inc., Madison, WI) in this population during treadmill walking.
+
+Two groups of subjects were recruited; those with an abnormal gait and who 
+used a cane (n=11) and those with an normal gait without a cane (n=16). All 
+subjects met ACR clinical and radiologic criteria for knee OA, had a knee 
+extension deficit of > 10 degrees and were > 60 years of age. Oxygen 
+consumption, measured simultaneously using indirect calrimetry, was used as 
+the reference criterion while subjects walked on a treadmill for three 10 
+minute periods at a) self selected speed, 0 grade, b) a 25% increase in speed 
+at 0 grade and c) self selected speed at 2% grade. Caltracs were attached over 
+both hips and the Tritrac was secured at the waist.
+
+The two groups did not differ in oxygen consumption for any of the walking 
+periods. Correlations of estimated energy consumption with either instrument 
+were low and not significant. Underestimation of energy cost by the Caltrac 
+was 30.39+17.73 and with the Tritrac 23.18+17.59 (mean + SD).
+
+These data suggest that the Caltrac and Tritrac are not appropriate for 
+estimation of energy expenditure for individuals functioning within a narrow 
+range of activity levels. This may be a function of gait changes with age and 
+the heterogeneity of style of muscle use in individuals with an abnormal gait. 
+Efforts to develop methods to estimate energy use in this population need to 
+continue.
+

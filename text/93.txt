@@ -1,0 +1,25 @@
+Nursing Informatics: Smoking Cessation and Pregnancy
+
+Virginia Hill Rice, Paulette Hoyer, Farshad Fotouhi, and Melvern Ayers
+
+Although client teaching has been mandated as a standard for professional 
+nursing practice, issies surrounding what, when, where, and how clients should 
+be taught continue. This nursing informatics' clinical trail uses an 
+experimental pretest/posttest repeated-measures design to test the hypothesis 
+that pregnant women in their first trimester given a new hypermedia 
+interactive smoking cessation intervention program (HI-SCIP) will have: 
+greater knowledge of the effects of smoking, higher quit rates, higher health 
+status, and few low birthweight infants and premature deliveries compared to 
+usual care (UC). Cox's Interaction Model for Client Health Behavior guides the 
+study, HI-SCIP was designed to provide information on: health benefits of 
+quitting, risks associated with continued smoking, 15 specific steps and 
+strategies for quitting, signs and symptoms of cessation, how to avoid 
+relapse, and indirect effects of the smoking of others on the expectant 
+mother, fetus, and newborn using graphic structures where related nodes of 
+information are connected by links. Nodes contain tests, icons, sound, film 
+clips, and picutures. Pilot data from 60 subjects will be presented as well as 
+a detailed description of the development of the project. Findings are 
+expected to have far reaching consequences as other self-help, hypermedia 
+informatics are developed to address other health problems and client needs 
+for education in the current cost- and time-cutting health care environment.
+

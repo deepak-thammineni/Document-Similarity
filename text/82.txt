@@ -1,0 +1,25 @@
+Health Effect's of Noise Annoyance in Factory Workers
+
+Rosemary Ziemba, Sally L. Lusk, Brenda W. Gillespie, and Claire C. Caruso
+
+While the effect of noise on hearing is well documented, effects on other body 
+systems are less clear. Cardiovascular response to noise exposure has been 
+frequently studied, typically within a framework of stress physiology, but 
+findings are equivocal. One explanation for conflicting results is that the 
+subjective perception of noise as stressful has greater influence than actual 
+sound levels in producing stress. In this paper, relationships are examined 
+among noise annoyance, noise levels, blood pressure (BP), pulse, and health 
+symptoms in factory workers (n=398). Pulse and BP were measured during the 
+administration of a survey of health history, health behavior, lifestyle, 
+stress, and noise annoyance.
+
+Noise annoyance (r=.23, p<.001) but not noise exposure was related to a sum 
+score of health complaints as well as to several individual complaints, 
+including chest pain, headaches, irreguIar heart rate, dizziness, fatigue, 
+infections, and stomach problems (r=.13 to .29). Those reporting greater noise 
+annoyance were more likely to use hearing protection (r=.19, p<.01) which in 
+turn was related to lower systolic (r=-.12, p<.05) and diastolic BP (r=-.17, 
+p<.01). The results of multiple regression analyses investigating the effects 
+of demographic and psychosocial variables on BP, pulse, noise annoyance, and 
+several specific health complaints will be reported.
+

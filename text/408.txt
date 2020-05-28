@@ -1,0 +1,49 @@
+Effectiveness of Pattern-Specific Nursing Interventions in Hypoxia-Related 
+Acute Confusional States in Older Patients
+
+V. Neelon, N. Ng'andu, J. Miller, J. Carlson, M. Belyea, D. Baily, and M. 
+Champagne
+
+INTRODUCTION: Acute confusion or delirium is a transient syndrome 
+characterized primarily by abnormalities in attention and cognition, but 
+disordered psychomotor behavior, sleep-wake disturbances, and autonomic 
+nervous system disturbances are not uncommon (Engel & Romano, 1959; Lipowski, 
+1990). Acute confusion is common in hospitalized elderly, particularly 
+patients with underlying chronic cognitive impairnent (Chisholm et al., 1982; 
+Foreman, 1989; Neelon et al., 1989; Williams et al., 1985). Patients who 
+develop acute confusional states have high morbidity and mortallty, both 
+during hospitalization and after discharge (Francis & Kapoor, 1992; Gillick et 
+al. 1982; Levkoff et al., 1992). Because acute confusion has multiple causes 
+and varied patterns of clinical manifestations, we hypothesized that early 
+identification and treatment of patients using pattern-specific interventions 
+would be more effective than usual care (Neelon et al., 1992). We report in 
+this paper the effects of nurse-initiated, pattern-specific protocols among 
+patients treated for hypoxia-related acute confusion.
+
+METHODS: We used a prospective, repeated measures experimental design to test 
+pattern-specific interventions in 225 general medical patients (age 65+) 
+assessed at admission for risk factors and presence of acute confusion 
+(NEECHAM Confusion Scale score < 25 on a 0-30 scale). We used a RISK-INDICATOR 
+SCREEN developed from clinical observation and likelihood ratios of key 
+patient variables to classify patients' risk and patterns. Using regression 
+analysis, we evaluated the effects of treatment by change in NEECHAM scores 
+over the first 24 hours as the key outcome measure.
+
+RESULTS: Of the 175 identified as at risk or confused at admission, 98 
+received pattern-specific interventions on the treatment unit, and 77 were 
+followed on the usual care unit. Using multiple regression and controlling for 
+covariates, interventions showed a positive and significant effect on NEECHAM 
+scores (beta= 1.40, p=.02). Using logistic regression to evaluate a clinically 
+significant response at 24 hours, the odds of improving 4 points or more in 
+NEECHAM score for treated patients were 2.49 (95%CI=1.01, 6.15). Patients who 
+responded were more likely to have lower oxygen saturations (p=.001), poorer 
+nutritional status (p=.001), and markers of chronic cognitive imparrment 
+(p=.03). Those positive for hypoxia-related confusion improved with treatment 
+(beta=2.04, p=.01). The precise mechanisms underlying the effects of 
+intervention on hypoxic patterned patients are under study, however, analysis 
+of NEECHAM items score changes indicate that patients improved both in 
+cognitive function (beta=0.38 ,p=.02) and oxygen stability (beta=0.69 ,p=.04). 
+These data support our hypotheses that early identification and treatment of 
+elderly patients with acute confusion using pattern-specific protocols are 
+effective, at least in the initial 24 hours of treatment.
+

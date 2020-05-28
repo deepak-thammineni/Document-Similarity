@@ -1,0 +1,50 @@
+Refining Instruments Through Factor Analysis: But These Items Can't Go 
+Together!
+
+Lillian R. Eriksen
+
+Purpose: This paper focuses on the use of factor analysis for the refinement 
+of instruments. The process is illustrated by an example of the use of 
+exploratory factor analysis (EFA) and confirmatory factor analysis (CFA) 
+procedures. The use of EFA ad CFA approaches will be reviewed. The purpose of 
+EFA to determine the linkage between observed variables and their latent or 
+underlying factors will be illustrated. The use of CFA to test the hypothesis 
+that specific links do in fact exist will be demonstrated.
+
+Research Questions: 1. Is the initial conceptual framework for the development 
+of an instrument to measure patient satisfaction with nursing care supported 
+by the data from the first sample? 2. Is the factor structure, resulting from 
+the first sample confirmed in a second sample?
+
+Instrument: A 33 item, self-report, Likert type scale, to measure patient 
+satisfaction with nursing care in the hospital was developed on framework 
+consisting of 5 factors (Empathy, Dependability, Responsiveness, Information 
+Giving, Tangibles).
+
+Subiects: The first sample consisted of 230 patients from a women's hospital 
+in Australia. The second sample consisted of 103 patients from two community 
+hospitals in the Southwestern U.S.
+
+Data Collection and Analyses: Questionnaires were distributed to patients the 
+day of or the evening before discharge. They had been patients for at least 2 
+days. Questionnaires were supplied with sealable envelopes for 
+confidentiality. The EFA, using SPSS for Windows, was performed to examine the 
+supposed factor structure. The process of using the SPSS output to refine the 
+instrument structure will be presented. The CFA, on the second sample, was 
+performed using structural equation modeling. EQS for Windows was used for the 
+modeling. The process of using the EQS output will be presented.
+
+Finding: The factor structure was not supported by the data from the first 
+sample. The EFA provided information for refining the instrument. The 
+structural equation modeling used for the CFA produced a respectable model fit 
+which was refined with a respecification.
+
+Implications: Both EFA and CFA provide powerful tools to support the 
+refinement of instruments. EFA is a useful approach for identifying concepts 
+underlying a larger number of variables. CFA, using structural equation 
+modeling, can provide a test of the proposed specific relationship between a 
+concept and the indicants of the concept. It is essential to keep in mind that 
+all of this refinement is most dependent on the theoretical issues underlying 
+any instrument. Factor analyses techniques are no substitute for thoughtful 
+substantive consideration.
+

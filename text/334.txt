@@ -1,0 +1,45 @@
+A Study of the Relationship of Job Satisfaction with the Organizational 
+Variables of Structure, Technology, and Environment in Public Health Nursing
+
+The purpose of this study was to use an exploratory design to examine the 
+relationship of the organizational variables of structure, technology, and 
+environment with job satisfaction in public health nurses in South Carolina. 
+Methodology involved the distribution of a five-part Questionnaire Packet to 
+all licensed nursing personnel in the South Carolina Department of Health and 
+Environmental Control (SC DHEC). Each packet contained a letter of 
+introduction and five tools for data collection - Structure Instrument 
+(Alexader, 1986), Technology Instrument (Leatt & Schneck, 1981), Environment 
+Instrument (Leifer, 1975), McCloskey-Mueller Job Satisfaction Scale (MMSS) 
+(McCloskey-Mueller, 1990) and Visual Analogue Scale (VAS) (Herman, 1990). Two 
+months were allowed for collection of data.  Packets were received from 845 
+personnel for a response rate of 50.6% with the final study sample consisting 
+of 838 nursing personnel representing all 13 health districts and SC DHEC 
+Central Office.
+
+Data aalysis included descriptive analysis of the demographic characteristics 
+of the study group, and differences in research variables by classification, 
+education, work status, program assignment, years in nursing, and years at 
+DHEC. Analysis of variace was done to determine the significance of 
+differences between groups by demographic variables. Instrument results were 
+analyzed with multiple regression techniques to identify relationships among 
+the research variable. Stepwise regression was used to deterinine the 
+subset(s) of research and demographic variables that best explained the 
+variace in job satisfaction. Correlational approaches were used in exaiming 
+the relationships among demographic and research variables. Comparative 
+techniques of factor analysis and coefficient of congruence were used in 
+examining the performance of these instruments in this population with 
+previous research. Difference score analysis was used to explore the fit if 
+the three dimensions of structure, three dimensions of technology, and 
+environmental uncertainty. Seven relational statements were tested through 
+regression analysis and t-test of quartile rankings.
+
+Organizational structure was the critical variable in predictIng job 
+satisfaction in public health nurses in SC DHEC. Structure accounted for 41% 
+of the variance in job satisfaction on the MMSS and 26% on the VAS. Structure 
+remained the critical predictor in the difference score analysis. Two of the 
+seven relational statements were supported. Technology and environment assumed 
+significance only in concert with each other or structure. This study has 
+implications for nurse administrators in public health to create more flexible 
+work environments with active involvement of staff for increased job 
+satisfaction.
+

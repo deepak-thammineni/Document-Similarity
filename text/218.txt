@@ -1,0 +1,20 @@
+Cluster Analysis Replication of Variables in Highly Tempting and Slip Episodes 
+of Individuals Attempting-Smoking Cessation
+
+Monica Scheibmeir
+
+Prior research on variables in highly tempting smoking situations using 
+cluster analysis had supported a four cluster solution. A secondary data 
+analysis was conducted to attempt replication of the cluster classification of 
+variables in highly tempting and slip episodes of individuals attempting to 
+quit smoking. Interviews from 66 subjects were used for the analysis. A 
+modified version of Shiffman's coding scheme of situational variables was used 
+to code the data. A hierarchical cluster analysis using Ward's method was 
+performed followed by a K-means cluster analysis. A two cluster solution was 
+obtained. The first cluster was labeled negative-stressful and the second 
+cluster was labeled positive-social. A Chi-square test revealed that neither 
+cluster was able to predict the outcome of the smoking crisis situation. 
+Variations in sample size and setting may account for some of the difference 
+between the two studies. Implications for cognitive and behavioral coping 
+strategies are discussed.
+

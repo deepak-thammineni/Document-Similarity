@@ -1,0 +1,30 @@
+New Incremental Threshold Loading (ITL) Test of Respiratory Muscle Endurance 
+(RME): Chronic Obstructive Pulmonary Disease (COPD)
+
+Janet L. Larson, Margaret Covey, Jean Berry, Scott Wirtz, and Miyoko Matsuo
+
+Patients with CoPD experience deterioration in respiratory muscle function, 
+but effects on RME are not well established because there are no definitive 
+tests of RME for patients with COPD. This study examined reliability and 
+validity of a new ITL test of RME. Each stage consisted of two minutes of 
+loaded breathing followed by one minute of unloaded breathing to reduce 
+dyspnea and minimize its confounding effects. At stage one patients breathed 
+against an inspiratory threshold load equal to 30% of maximal inspiratory 
+pressure (PImax) and the load was increased by one 50 gm weight at each stage, 
+continuing to the limits of endurance. The test was repeated three times at 
+one week intervals. The sample included 45 patients with COPD (mean(SD)): age, 
+66 (7) yrs. and forced expiratory volume in 1 second, 38 (17) % predicted. 
+Repeated measures ANOVA revealed tests 1 and 2 were significantly different 
+(p<.01), but tests 2 and 3 were not significantly different. For tests 1, 2, 
+and 3 the mean (SD) final stage was 316 (135) gms, 354 (133) gms, 367 (139) 
+gms, and rating of perceived breathlessness (Borg scale) an the end of the 
+test was 6.5 (3.0), 7.1 (2.7), 7.1 (2.7), respectively. Test-retest 
+reliability was r12-.90 and 423-.89. Differences between test 1 and 2 were < 
+one stage for 71% and < two stages for 93% of subjects. Differences between 
+test 2 and 3 were < one stage for 80% and < two stages for 93% of subjects. 
+Validity of the new ITL was supported by a decline in PImax measured 
+immediately after the end of the ITL test, suggesting that patients continued 
+to the limits of their endurance as evidenced by fatigue of the inspiratory 
+muscles. The new ITL test was reliable and preliminary evidence of its 
+validity was established.
+

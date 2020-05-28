@@ -1,0 +1,29 @@
+Functional Status Changes Over One Year in Individuals After Coronary Artery 
+Bypass Graft Surgery
+
+Janet L. Nieveen, L. Zimmerman, and S. Barnason
+
+The purpose of this study was to investigate changes in postoperative 
+fuctional status over a one-year time period in individuals undergoing 
+coronary artery bypass graft (CABG) surgery. Data were collected on 37 men and 
+12 women who ranged in age from 43-83 years (mean 65.5 years of age). Subjects 
+completed the Medical Outcomes Study Short-Form 36-item fuctional status 
+questionnaire (SF-36) preoperatively, and postoperatively at 3, 6, and 12 
+month follow-ups. This instrument yields a physical health summary score and a 
+mental health summary score. Using repeated measures ANOVAs, results revealed 
+a significant improvement in physical health scores from preop. to 3 months 
+(F=38.98, p<.0001), and from 3 months to 6 months (F=30.45, p<.0001). A 
+minimal, nonsignificant improvement occurred from 6 months to 12 months. 
+Mental health scores followed the same pattern with significant improvements 
+found from preop. to 3 months (F=14.97, p<.001), and from 3 months to 6 months 
+(F=29.55, p<.0001). Age exhibited no influence on physical or mental fuctional 
+status scores. Males had overall better (although only close to significant) 
+physical health scores, while mental health scores were similar between the 
+sexes. Length of hospitalization stay after the CABG surgery had a significant 
+influence on follow-up physical health fuctional status scores even at the 12 
+month follow-up. Individuals staying in the hospital 5 days or less had better 
+physical health scores. There was no difference on mental health scores. 
+Findings of the study support the need for longer follow-up studies on this 
+population, and identify factors contributing to changes in fuctional status 
+over time.
+

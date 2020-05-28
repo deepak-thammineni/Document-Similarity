@@ -1,0 +1,58 @@
+Program Evaluation: The Employees' Perspective
+
+Rebecca Krepper and Duke Rohe
+
+Given today's economic pressures, health-care organizations are seeking ways 
+to realize major gains in quality, productivity, efficiency and improve their 
+competitive edge. St. Luke's Episcopal Hospital (SLEH), a 900 bed tertiary 
+care facility, is in the process of implementing a patient care delivery model 
+called "Team Care" as their answer to sustained, high quality, high value, 
+patient-focused care. Evaluation research is one methodology available to 
+assist in making decisions about the effectiveness and efficiency of existing 
+programs. This quasi-experimental study was designed to collect data on the 
+employees perceptions of their work environment prior to and during the 
+transition to Team Care.
+
+All health care workers who were assigned to one of the cardiovascular (CV) 
+demonstration units were surveyed using the Work Environment Scale (WES) in 
+1993, prior to implementation of Team Care. In 1994 all patient care staff 
+from throughout the hospital were asked to complete the WES. This therefore 
+allowed for pre- and post-test comparison of the CV units and comparison of 
+the CV units with those areas just beginning implementation of Team Care. The 
+sample consisted of staff who completed and returned the questionnaire; 
+1993=75 (52% return) & 1994=548 (56% return).
+
+The WES, developed by Moos in 1981, is comprised of ten subscales that assess 
+three underlying dimensions: Relationship, Personal Growth, and System 
+Maintenance and System Change. Descriptive statistics were calculated for each 
+of the deoographic variables and means were determined for each of the ten 
+subscales on the WES. Where appropriate oneway anovas, correlations and 
+t-tests were completed in order to identify significant (a=.05) relationships 
+or differences.
+
+In comparing the CV units before and after implementation of Team Care it was 
+found that the workers surveyed in 1994 differed significantly frcm 1993 in 
+Supervisors Support (u'94=5.3 vs u'93=6.02); Control (u'94=5.59, down from 
+6.36 in '93); and Work Pressure (u'94=5.75 up from a low of 4.91 in `93). 
+These results were understandable because the restructuring involved a 
+decrease in the absolute number of middle managers. With the accompanying 
+shared leadership philosophy, workers are encouraged to be more independent. 
+Work Pressure was above the tool mean for all areas in 1994 perhaps due to 
+factors not connected with Team Care.
+
+In 1994 the CV area was significantly different from one or more of the other 
+4 services in regard to their perception of Involvement (u=6.15), Supervisor 
+Support (u=5.3), Peer Cohesion (u=5.38) and Autonomy (u=6.35). The first 3 
+variables are all subscales of the relationship dimension. These scales assess 
+the extent to which employees are concerned about and committed to their jobs 
+and the extent to which employees are friendly to and supportive of one 
+another. The last subscale, Autonomy, represents the extent to which employees 
+are encouraged to be self-sufficient and to make their own decisions. All of 
+these characteristics are reported in the literature to be outcomes of a 
+patient focused approach to care delivery.
+
+The value of benchmarking prior to initiating change cannot be overstated. The 
+WES provided a snapshot of where the staff was in regard to the 10 subscales. 
+This will be invaluable when assessing the impact of Team Care in the years to 
+come.
+

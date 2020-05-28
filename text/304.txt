@@ -1,0 +1,27 @@
+Translating Nursing Interventions from a Hospital System to the Nursing 
+Interventions Classification (NIC)
+
+Amy Coenen, Polly Ryan, and Janice Sutton
+
+The use of standardized classification systems to document nursing practice 
+can assist in demonstrating the contributions nurses make in the health care 
+arena. The purpose of this project was to compare an existing classification 
+system for interventions that was used in a hospital Nursing Information 
+System (NIS) with the Nursing Interventions Classification (NIC) (McCloskey & 
+Bulechek, 1992). This initial project was necessary in order to conduct a 
+multi-site study describing nursing care using the Nursing Minimum Data Set 
+(NMDS). The hospital NIS classified interventions using the NMDS 16 category 
+scheme. For future comparability of translation projects, nursing 
+interventions for this project were selected based on the Moorhead and Delaney 
+project (another presentation for this symposium). Interventions for select 
+nursing diagnoses were used. Members of the research team independently coded 
+the select interventions from the hospital NIS to the NIC. Most of hospital 
+NIS interventions were comparable at the level of NIC activities, in which 
+case the NIC intervention label was used for coding. Alpha levels were < .60 
+on coding for the first diagnosis (pain). After determining decision rules for 
+additional coding, interventions for pain will be re-coded until an alpha 
+level of > .90 is achieved. At that time, interventions for additional 
+diagnoses will be translated from the hospital NIS to NIC. Based on the 
+findings, a discussion of issues related to development and use of 
+classification systems for nursing interventions will be presented.
+

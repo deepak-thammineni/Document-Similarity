@@ -1,0 +1,28 @@
+Charted Nursing Interventions Grouped by Nursing Interventions Classification 
+(NIC) Compared Classified Medicus Indicators and Defined Functional Care 
+Categories for Patients on Total Hip Replacement (DRG 209) and PTCA (DRG 112) 
+Clinical Pathways
+
+L. Sue Davis, Linda L. Workman, and Darlene A. Anderson
+
+This study was undertaken in conjunction with a larger, multi-institutional 
+consortium research project to validate nursing interventions in support of 
+the NIC and Medicus indicators, and the direct care costs based on these 
+intervention. A descriptive design examined the relationship between a patient 
+classification system (Medicus Type VI) acuity score and documented nursing 
+interventions for patients participating in a clinical pathway for DRGs 209, 
+total hip replacement, and 112, PTCA. A random sample of 40 patient medical 
+records was obtained from a 707 bed academic medical center located in a 
+midwestern state. Data were collected using a coding instrument developed by 
+the researchers which incorporated revised Medicus acuity indicators, nursing 
+interventions categories (NIC) derived from the Iowa Intervention Project, and 
+nursing interventions based on standards of care and the clinical pathways 
+expectations. Descriptive statistical analysis was completed using an 
+analytical tree concept with the documented nursing interventions as the basis 
+for generating NIC and Medicus scores. In addition, Medicus categories coded 
+daily by the staff nurse were transformed into two binary codes, 0=absent and 
+1=present, to enable comparison of documented to coded Medicus indicators per 
+patient group. Results revealed that nursing interventions were found to 
+support both NIC and Medicus categories and clinical pathways standards 
+established for the 2 DRGs.
+

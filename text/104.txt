@@ -1,0 +1,21 @@
+Use of Confirmatory Factor Analysis to Assess the Construct Validity of the 
+Hospital Ethical Climate Survey
+
+Linda L. Olson and Richard T. Campbell
+
+Confirmatory factor analysis (CFA) enables researchers to operate from an 
+underlying theoretical perspective by proposing and testing hypotheses about 
+the underlying factor structure of an instrument. The Hospital Ethical Climate 
+Survey (HECS) was based on a concept analysis, literature review, and the 
+investigator's experience. Schneider's (1990) concept of types of 
+organizational climate, and Brown's (1990) conditions for ethical reflection 
+guided the research. The construct validity of this new measure was assessed 
+by CFA using LISREL 7 procedures. The CFA models were based on a sample of 360 
+Registered Nurses who completed a survey consisting of the HECS, the Integrity 
+Audit, and a social desirability scale. The final CFA model consists of 26 
+variables in 5 factors. The Adjusted Goodness-of-Fit Index was .95, indicating 
+a goodfit of the model to the data. The subscales reflect nurses' perceptions 
+of peers, patients, managers, hospital, and physicians. A measure of ethical 
+climate can enable researchers to study the influence of the workplace on 
+nurses' ethical practice.
+

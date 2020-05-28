@@ -1,0 +1,34 @@
+Clinical Testing of the Weaning Readiness Assessment Scale
+
+Anne G. Perry and Patricia Dettenmeier
+
+This was a prospective study designed to further test the Weaning Readiness 
+Assessment Scale's (WRAS) ability to identify and categorize factors which 
+impeded or promoted a patient's ability to successfully wean from mechanical 
+ventilation (N=295). This phase of the study was designed to determine 1) the 
+continuous reliability of the WRAS, 2) replication of the results on a larger 
+prospective sample, and 3) if, through a linear regression model, there exists 
+an interaction of multiple variables with one another and together to 
+influence the number of days on mechanical ventilation.
+
+As previously reported the WRAS is a 28 item, 60 point scale used to assess 
+the patients' physiological, behavioral, and ventilatory variables. Previous 
+research documents acceptable inter-rater reliability (0.93), intra-rater 
+reliability (0.92), and content validity index (0.88). Earlier clinical 
+testing identified a significance difference in the total scores of patients 
+who successfully weaned from mechanical ventilation when compared to those 
+patients who were unsuccessful. In addition 14 variables were identified as 
+significant for successful weaning.
+
+Preliminary one-way analysis of variance showed statistical significance on 
+similar variables; and with other instances where statistical significance was 
+not present, but where a trend was obvious in the means. Further analysis is 
+in progress to complete contingency table analyses and to develop a linear 
+regression model on the data from the two data sets for a total of 524 
+subjects.
+
+These data imply that certain variables, alone and in combination affect 
+successful weaning from mechanical ventilation. Future testing of this model 
+may reveal that the WRAS can be effective clinical assessment to identify 
+readiness to wean.
+

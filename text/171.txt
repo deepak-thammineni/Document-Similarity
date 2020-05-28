@@ -1,0 +1,30 @@
+The Influence of Ovarian Steroids on Serotonin Overflow in the Amygdala of the 
+Female Fluoxetine-Treated Rat
+
+Geneal A. Brooks and M. D. Davis
+
+Serotonin selective reuptake inhibitors (SSRI), such as fluoxetine (Prozac), 
+are frequently used for the treatment of depression in women. Estrogen and/or 
+progesterone are known to modify brain serotonin (5-HT) levels in a time- and 
+region-specific manner in rats. The basolateral amygdala, involved in the 
+modulation of mood, contains 5-HT neuronal pathways and estrogen and 
+progesterone receptors. The presence or absence of plasma estrogen and/or 
+progesterone may change the efficacy of SSRI in the basolateral amygdala. This 
+study seeks to determine if serotonin overflow in the basolateral amygdala of 
+fluoxetine-treated female rats is altered by the presence or absence of the 
+ovarian steroids, estradiol (E2) and progesterone (P). Female rats are 
+ovariectomized (ovx) and divided into four treatment groups representing 
+different stages in the rat estrus cycle: 91) ovx rats receiving three 
+consecutive daily injections of E2 and on day four, P; (2) ovx rats receiving 
+three consecutive daily injections of E2 with vehicle on day four, (3) ovx 
+rats receiving three consecutive daily injections of vehicle and P on day 
+four; and (4) ovx rats receiving four consecutive daily injections of vehicle. 
+Extracellular substances from the basolateral amygdala of these rats are 
+collected by microdialysis and analyzed with high pressure liquid 
+chromatography (HPLC) using electrochemical detection to determine serotonin 
+overflow in response to acute fluoxetine treatment in all groups. It is 
+hypothesized that in ovariectomized animals, those receiving estradiol 
+injections will show higher serotonin overflow in response to fluoxetine when 
+compared to those fluoxetine-treated animals receiving vehicle alone. 
+Treatment with P in E2-primed animals is expected to dampen the effort of E2 
+on serotonin overflow. Results and implications will be discussed.

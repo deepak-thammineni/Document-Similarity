@@ -1,0 +1,40 @@
+Mortality Probability Model in Patients with Acute Myocardial Infarction
+
+Doris J Rosenow
+
+Specific Aims: Among the elderly, cardiovascular disease now ranks as the 
+leading cause of disability and death. Patients who suffer an acute myocardial 
+infarction (AMI) are a very heterogeneous group whose prognosis after an AMI 
+differs widely. Studies have shown that approxiinately 10% to 29% of 
+hospitalized patients after AMI will not live to be discharged. Therefore, the 
+specific aims of this study were to: (1) determine factors predictive of 
+hospital mortality in patients with AMI; and (2) examine the usefulness of 
+three severity of illness indices.
+
+Research Question: What are the predictive factors of hospital mortality in 
+patients with acute myocardial infarction?
+
+Methodology: Data was collected by a retrospective chart review. A pilot study 
+of 110 charts of men and women diagnosed with AMI who had expired in a 
+Southwestern University Medical were reviewed. The three severity of illness 
+indices that were used for data collection were: (1) Funk & Pooley-Richards 
+(1994) Coronary Prognostic Indices which included five variables [history of 
+AMI, older age, lower LVEF, and a higher number of occluded coronary vessels]; 
+(2) Dubois, Pierard, Albert, et al., (1988) Prognostic Index which included 
+three subgroups of patients [high risk, intermediate risk, and good 
+prognosis]; and (3) Gustafson, Fryback, Rose, et al., (1986) Ischemic Heart 
+Disease Index (IHDI) which included 10 categones; time from onset of symptoms, 
+duration of pain, age, previous heart disease, preexisting second organ 
+disease, family and social history, electrical instability, amount of 
+myocardial damage, presence of acute MI, and electrical complications.
+
+Data Analysis: A logistic regression analysis will be used to determine the 
+results of the study. At present, the data analysis is not completed. 
+Therefore, the findings will be presented at the conference, which will 
+include a mortality probability model for patients at high risk for mortality 
+after an AMI.
+
+Implications: Clinical assessment of those patients for high risk mortality 
+after an AMI should lead to closer monitoring, selective and more focused 
+intervention regimes which would provide more timely management decisions.
+

@@ -1,0 +1,26 @@
+Development of an Instrument to Measure Patient Satisfaction with 
+Postoperative Pain Management
+
+Bunny Pozehl, S. Barnason, L. Zimmerman, J. Rowles, D. Degner, and D. Jones
+
+The purpose of this psychometric study was to develop an instrument to measure 
+patient satisfaction with postoperative pain management. Measurement of 
+patient satisfaction with pain management is a standard set forth by the 
+American Pain Society (APS). The only available measure of patient 
+satisfaction is the APS survey which may be limited in sensitivity to factors 
+influencing patient satisfaction. A 25 item, 4 point likert scale (strongly 
+agree to strongly disagree), was developed and tested at hospital discharge in 
+a convenience sample of 101 patients undergoing total hip replacement, total 
+knee replacement, or microlumbar discectomy. Content validity of the 
+instrument was established by a  panel of clinical experts in pain management. 
+Construct validation consisted of principal axis factor analysis procedures. 
+Thirteen items with factor loadings ranging from .39 to .79 were retained. A 
+one factor solution accounting for 41% of the variance was chosen based on the 
+Kaiser criterion, the scree plot, and interpretability of the data. Internal 
+consistency reliability for the 13 item instrument was .89. An instrument with 
+documented validity and reliability to measure patient satisfaction with 
+postoperative pain management is essential to measure progress towards the 
+Agency of Health Care Policy and Research's goal of enhanced patient 
+satisfaction with pain management. Further testing of this instrument is in 
+progress.
+

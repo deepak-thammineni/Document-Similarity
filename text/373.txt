@@ -1,0 +1,48 @@
+The Relationship Between Tranepidermal Water Loss and Humidity in Very Low 
+Birth Weight Infants
+
+Heidi V. Krowchuk, Ruth F. Hoffman, and Penny G. Blake
+
+Water losses through the skin affect the thermal regulation and the fluid and 
+electrolyte balance of very low birth weight (VLBW) infants. Disturbances of 
+heat and water balance are pronounced in VLBW infants due to the increased 
+permeability of their immature skin. Ambient humidity of the environment may 
+be one factor contributing to TEWL; in studies with full-term infants, TEWL 
+was negatively correlated with humidity measurements. The purpose of this 
+study was to examine the relationship between transepidermal water loss (TEWL) 
+and relative ambient humidity of the environment of VLBW infants during the 
+first 9 days of life. A correlational design was used to examine this 
+relationship, and the study was approved by the appropriate Institutional 
+Review Boards prior to its conduct. After written consent was obtained from 
+the parents, 43 VLBW infants admitted consecutively to the Level RI Neonatal 
+Intensive Care Unit over a six month period and who fulfilled the study 
+criteria were enrolled. The sample consisted of 30 female and 13 male VLBW 
+infants with a mean gestational age of 25.7 weeks (SD = 1.7) and a mean birth 
+weight of 858.2 grams (SD = 200.3). All infants were enrolled in the study 
+within 32 hours of birth (M = 16.8, SD = 6.0), and all infants were cared for 
+in double-walled isolettes during the duration of the study. TEWL measurements 
+were obtained from the subjects' abdominal skin, and ambient humidity 
+measurements were obtained from inside subjects' isolettes (after a 10 minute 
+period of equilibration) on 1, 3, 5, 7, and 9 days of life using an 
+Evaporimeter (ServoMed, Stockholm), which is a valid and reliable instrument 
+for determimng TEWL and ambient humidity. The Evaporimeter measures water 
+evaporation from the skin within the range of 0 - 300g/m2h (grams per meter 
+squared per hour), and relative humidity within the range of 0 - 100%. TEWL 
+measurements over the nine days reflected maturation of the subjects' skin and 
+ranged from 4 - 108g/m2h; measurements obtained on day 1 were the highest (M = 
+43.5, SD = 25.0), and the measurements on day 9 were the lowest (M = 15.6, SD 
+= 5.4). Ambient humidity of the environment of the VLBW ranged from 22% to 
+86%; however, mean humidity measurements ranged from 35.8% (SD = 8.3) to 42.8% 
+(SD = 17.5). The relationships between TEWL measurements and ambient humidity 
+measurements from the 5 data collection points (days 1, 3, 5, 7, and 9) were 
+calculated using the Pearson Correlation Coefficient. The tests revealed no 
+statistically significant relationships. Further analyses revealed a 
+statistically significant negative correlation between TEWL and the variables 
+of gestational age (r = -0.53, p <.0001) and birth weight (r = -0.55, p 
+<.0001). The results of this study demonstrate that ambient humidity was not 
+related to TEWL in the VLBW infants in the sample; that is, TEWL was not 
+increased by lower humidity levels. This has important practice implications, 
+since ideal isolette humidity levels for VLBW infants have been thought to be 
+about 50-70%. Further study needs to be done to determine if manipulating the 
+ambient humidity effects the TEWL of VLBW infants.
+

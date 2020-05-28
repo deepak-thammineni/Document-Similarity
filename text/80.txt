@@ -1,0 +1,28 @@
+The Demographic Context of Lead Exposure Among Children Attending Public Lead 
+Screening Clinics
+
+E. J. Porter
+
+Research concerning lead poisoning in children has been focused upon 
+predicting elevated blood lead levels (BPb > 10 micro-g/dl) based on 
+demographic data. Although lead exposure is a health state preliminary to 
+elevated BPb, little attention has been given to its demographic context. The 
+purposes of this study were: (a) to describe the nature and prevalence of lead 
+exposure among children who attended six public lead screening clinics in two 
+Wisconsin counties and (b) to explore its relationship to variables such as 
+family income, rural/urban home location, and history of previous lead 
+screening.
+
+The convenience sample consisted of the parents of 274 children. Before the 
+child's blood test, parents completed the Lead Exposure Questionnaire (LEQ), 
+responding to closed questions about lead sources (e.g., chipping paint in the 
+child' s older home), ingestion behaviors, and demographic variables. Data 
+were analyzed using Chi-square tests and t-tests. Based on the LEQ, 247 
+children (90.2%) had been exposed to at least one lead source. There were 
+significant differences (p<.05) in prevalence of exposure to specific lead 
+sources between rural/urban residents, renters/homeowners, and families with 
+incomes above/below 100% poverty. Of the 218 children who had not been 
+screened before, 177 (81.1%) should have been screened; they had at least one 
+CDC risk factor for elevated BPb. Nurses must engage in creative primary 
+prevention efforts and continue to study lead exposure's demographic context.
+

@@ -1,0 +1,28 @@
+Diabetes Education: Does the Content Affect Patient Outcomes
+
+Ruth M. Borthwick
+
+Educating a patient with diabetes is an inherent part in the treatment and 
+management of this chronic disease. Diabetic researchers encourage patient 
+educators to incorporate the concept of self-care into their educational 
+intervention to provide patients with the tools they need to manage their 
+disease. This led to the hypothesis: Patients exposed to self-care content 
+during their diabetic education will have a greater weight loss and lower 
+hemoglobin A1c levels than patients attending programs not incorporating this 
+content. The concept of self-care is clearly identified in Dorthea Orem's 
+theory of self-care deficit. She supported the concept that individuals have 
+an inherent ability to manage their health. Along with her theory, Bandura's 
+concept of self-efficacy served as the theoretical framework for this study.
+
+A quasi-experimental retrospective pre-test/posttest design was utilized. The 
+purpose of the study was to determine if there was a difference in patient 
+outcomes based on the content the patient received during his diabetic 
+education. Patients attending three ADA approved diabetic education programs 
+served as the population for the study. Only one of the education programs 
+incorporated self-care information in their curriculum. Following a nine month 
+ex-post facto collection of data, changes in weight and hemoglobin A1c were 
+analyzed utilizing the analysis of covariance to determine the differences 
+among patient attending the three educational programs. The analysis supported 
+the hypothesis in relation to the hemoglobin A1c, but not in relation the 
+weight loss.
+

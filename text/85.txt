@@ -1,0 +1,27 @@
+Development and Validation of the Jenkins' Parent Apprehension Scale
+
+Ruth L. Jenkins and V. Champion
+
+Parental anxiety is a problem commonly cited for families in which an infant 
+is being monitored for apnea or apparent life-threatening event (ALTE). 
+Research to date has been descriptive in nature, and no quantifiable measures 
+of anxiety specific to apnea of infancy and home cardiopulmonary monitoring 
+are reported in the literature. Using a family resilency model and anxiety 
+theory an instrument was developed to quantify the concept of apprehension in 
+these parents. The Jenkins' Parent Apprehension Scale (JPAS), a summated 
+20-item, Likert scale, was derived from the literature describing anxiety or 
+upsets for parents. Content validity was established by six experts in the 
+fields of nursing, medicine and psychology having knowledge of apnea, anxiety, 
+and worry.
+
+This study assessed the reliability and validity of the JPAS with 107 parents 
+from a large midwest clinic. Through internal consistency reliability 
+analysis, the coefficient on the remaining 10-Item Scale was 0.80.
+
+Criterion-related validity was obtained with concurrent administration of the 
+State/Trait Anxiety Inventory and the Penn State Worry Questionnaire. 
+Correlations for the State/Trait Anxiety Inventory were adequate for 
+State-State (r=0.41, p<01) and low for the State-trait, (r=0.27, p<.01) and 
+adequate for the Penn State (r=.33, p<.05). There is evidence that reliability 
+and validity are adequate for clinical use.
+

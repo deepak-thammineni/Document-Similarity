@@ -1,0 +1,22 @@
+Nurse Staffing and Patient Outcomes
+
+Mary A. Blegen, Colleen Goode, and Laura Reed
+
+Hospitals' attempts to enhance operational efficiency with work redesign often 
+involve using non-licensed personnel. This has led to concerns about the 
+quality of nursing care and subsequent patient outcomes. Research that 
+systematically evaluates the effects nurse to patient ratio and skill mix on 
+patient outcomes is needed; but, the few studies available are restricted to 
+nurse staffing indicators for the hospital as a whole and to patient mortality 
+as the outcome.
+
+This study describes the relationships among staffing levels and patient 
+outcomes at the level ofthe nursing care unit (N=42). Staffing indicators 
+include proportion of FTE staff that are RNs and of hours of care per patient 
+day given by RNs. Patient indicators include unit rates of RNs morbidity, 
+mortality, and adverse occurrences such as medication errors, falls, 
+infections, and complaints. Severity of patient illness across units is 
+controlled using an institutionally standardized measure of patient acuity. 
+Multivariate analysis are done to determine relationships among indicators of 
+nurse staffing, patient outcomes and control variables.
+

@@ -1,0 +1,24 @@
+Predictors of Quality of Life in Heart Failure
+
+Linda S. Baas, Joyce A. Fontana, Lynne E. Wagoner, and Geetha Bhat
+
+Quality of life (QOL) is a major concern in persons with heart failure (HF). 
+Two measures of QOL are life satisfaction (LS) and activity. A sample of 38 
+persons with HF was surveyed: 23 were managed medically, 8 were awaiting 
+transplantation, and 7 were one month post-transplantation. The sample was 
+predominately male (69%), married (76%), and caucasian (90%) with a mean age 
+of 51 + 2 years. No differences were found among groups on the subjective and 
+objective QOL variables; thus the three groups were combined for subsequent 
+analyses. LS, as measured by the Index of Well-Being, was predicted by 
+internal and external resources available [R2=.43, F=11.7, df 2,31, p<.0002]. 
+Subjects reported that the availability of resources (111 + 3) exceeded their 
+needs (107 + 4). Scores on the Human Activity Profile were predicted by 
+symptoms as measured by the Living with Heart Failure Questionnaire [R2=.37, 
+df 1,31, p<.05]. More importantly, left ventricular ejection traction (LVEF) 
+did not enter into either regression model; furthermore, symptoms did not 
+predict LS. These findings support placing more importance on the patient's 
+reports rather than the objective measures like LVEF when assessing QOL. 
+Furthermore, in the early period post-transplantation, there were no 
+differences in LS, activity level, or resources needed and available. These 
+subjects will be followed to examine differences over time.
+

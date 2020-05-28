@@ -1,0 +1,46 @@
+Monitoring Febrile Shivering in PLWA: Methodological Approaches
+
+Barbara J. Holtzclaw
+
+Fever is a nearly universal symptom of the many opportunistic infections 
+experienced by persons living with AIDS (PLWA). Regardless of the offending 
+organism, a complex of hypermetabolism, energy expenditure, dehydration, and 
+desiccation often follows. Shivering plays a major role in generating elevated 
+body tempwature. When opportunistic infection occurs, release of endogenous 
+pyrogen (EP) from host cells is triggered by interleukins and other cytokines, 
+which are elevated in PLWA despite declining T-lymphocytes. EP resets the 
+hypothalamic thermoregulatory set-point to a new level, higher than the 
+patients existing temperature. Chilling ensures and warming responses are 
+initiated. Shivering generates heat, while vasoconstriction serves to conserve 
+it. The measurement of shivering onset and severity has been a significant 
+part of this investigator's program of research, yet the monitoring of this 
+variable has inherent difficulties. In an ongoing study of febrile symptom 
+management in PLWA, specific methodological approaches were taken to quantify, 
+validate, and prepare data collectors in the measurement of shivering.
+
+Specific Aims: Piloting of the measurement was designed to: 1) quantify 
+shivering on an ordinal scale with objective indicators for each level, 2) use 
+a physiological indicator to verify the onset of shivering; 3) test data 
+collectors for inter-rater reliability in shivering observations; 4) identify 
+any problems in shivering detection and monitoring that would complicate the 
+study.
+
+Methods: Using data from previous studies of febrile shivering in 
+immunosuppressed patients, a protocol was developed. An ordinal shivering 
+scale was refined from 5 previous studies of shivering. Electromyographic 
+(EMG) signals from the masseters were monitored continuously during febrile 
+episodes to detect the earliest non-visible masseter contractions (stage 1), 
+increasing stages (2 through 4) were observable by progressive cephalad-to-
+caudal muscle involvement. Data collectors were trained in shivering 
+observation in two settings: 1) with an actor simulating shivering at various 
+stages; 2) with actual patients shivering in postoperative or febrile 
+situations.
+
+Findings and implications: Progressive stages of muscle involvement provide 
+the most consistent unit of measuring shivering in the clinical setting. 
+Surface EMG offers limited means of shivering quantification because of: 1) 
+variations from one muscle to another; 2) electrical interference from the 
+environment; and 3) artifact from nonshivering muscle movement. However, the 
+pattern and bursts of masseter contractions in the 100 to 500 microvolt range 
+serves as a reliable and objective indicator of shivering onset.
+

@@ -1,0 +1,23 @@
+Coronary Artery Disease (CAD) Risk Factor as an Outcome Measure for the 
+Cardiac Surgical Patient
+
+Sue Barnason, L. Zimmerman, and J. Nieveen
+
+Evaluation of patients following significant events such as cardiac surgery 
+requires further exploration of the recovery trajectory so that methods which 
+will maximize the outcomes of the patient (such as the development of clinical 
+practice guidelines) and determine measures of quality in health care will be 
+developed. The purpose of this study was to determine the influence of cardiac 
+surgery (coronary artery bypass and/or valve surgery) on CAD risk factor 
+reduction. Data were collected on 84 cardiac surgical patients whose age 
+ranged from 36-83 years with a mean of 66 years. Subjects completed the 
+Arizona Heart Test (AHT) prior to discharge, at 3, 6, and 12 months 
+postoperatively. The AHT is comprised of 10 items designed to measure a 
+persons risk for CAD, the female version has one additional item related to 
+hormone status. A repeated measures ANOVA showed significantly lower CAD risk 
+factor scores of baseline when compared at 3 months (F=14.22, p<.001), 6 
+months (F=8.88, p<.01) and 12 months (F=8.12, p<.01). Significant differences 
+were found for gender indicating women had lower CAD risk factor scores at 6 
+and 12 months compared to males. Study findings support one measure which can 
+be used in a comprehensive repertoire of outcome measure for this population.
+

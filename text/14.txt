@@ -1,0 +1,22 @@
+Arterial and Venous Oxygen Saturation Monitoring in Premature Infants - A 
+Pilot Study
+
+Shyang-Yun Pam K. Shiao, J. Gresky, and Y-J Chang
+
+The purpose of this study is to determine the accuracy of a continuous 
+monitoring system for venous oxygen saturation (SvO2) and arterial oxygen 
+saturation (SaO2), using new three-wavelength catheters for 10 premature 
+infants during the first 5 days of life. Premature infants suffer from 
+oxygenation problem, and there is a fine line between oxygen sufficiency and 
+oxygen toxicity in the care of these infants. SvO2 with SaO2 may provide a 
+better picture of oxygenation in these infants.
+
+SvO2 and SaO2 will be monitored through umbilical catheter lines, additionally 
+the pulse oximeter (SpO2) will be monitored peripherally. These measurements 
+will be refereneed to a newly improved cooximeter in laboratory every 8 hours. 
+The laboratory test will include the measurements on fetal hemoglobin levels 
+to determine the accurate oxygen saturation levels. A repeated measures ANOVA 
+will be used to evaluate the accuracy of the monitoring devices. Infants will 
+be followed for their hospital outcomes. This study will be the first to 
+include fetal hemoglobin levels in the measurement of oxygen saturation and to 
+provide SvO2 in addition to SaO2 and SpO2 data in premature infants.

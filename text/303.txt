@@ -1,0 +1,28 @@
+Translating Nursing Orders into the Nursing Interventions Classification 
+(NIC): Process and Rules
+
+Sue Moorhead and Connie Delaney
+
+Uniform language in nursing is needed to clearly depict the contributions of 
+nursing in the health care arena. Standardized language provides a way to 
+describe nursing care, to determine nursing's contribution to outcomes and to 
+measure the quality of that contribution to patient care. Standardized 
+language for nursing diagnoses is commonly used in nursing practice and 
+provides a framework for evaluation of care, but little data related to 
+nursing interventions and patient outcomes are standardized. This situation in 
+nursing practice today limits out ability to describe nursing practice and the 
+patient outcomes achieved in spite of the fact that many hospitals collect 
+these data. This study integrates the feasibility of translating 
+nonstandardized nursing intervention data into standardized intervention 
+language using the Nursing Interventions Classification (NIC). The study is 
+based on data from a midwest community hospital's computerized information 
+system. A method for translating the nursing orders from the discharge records 
+of 4,248 patient records from April through October 1990 was developed that 
+aligned each nursing order with the appropriate nursing intervention from the 
+NIC. The rules created for this translation will be outlined. Examples of 
+nursing interventions linked to NANDA diagnoses identified as a result of this 
+translation process provide a "picture" of nursing practice in this hospital 
+that was not available previously. The results of this study demonstrate that 
+nonstandardized nursing orders can be translated into standardized nursing 
+intervention language such as the Nursing Interventions Classification.
+

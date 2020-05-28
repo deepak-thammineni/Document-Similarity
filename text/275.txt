@@ -1,0 +1,44 @@
+Perceived Uncertainty, appraisal, and Hope in Women with Breast Cancer
+
+Sharon A. Willadsen
+
+The purpose of this study was to investigate the relationships among perceived 
+uncertainty, appraisal of the event of breast cancer and hope in women with 
+breast cancer.
+
+The 50 subjects in the study was obtained from three outpatient oncology 
+clinics. Respondents provided demographic and medically related information, 
+scores on the Miller Hope Scale, the Mishel Uncertainty in Illness Scale, and 
+an Appraisal Scale developed for this study.
+
+The data were analyzed using descriptive and correlational statistics. 
+Relationships between variables were established using Pearson correlation 
+coefficients. Multiple regression, using stepwise regression, was employed to 
+obtain the most significant predictors of hope as multicolinearity was not 
+problematic. The alpha level was set at .05.
+
+Significant negative correlations were found between hope and elevated 
+perceptions of uncertainty (r=-.64) as well as elevated perceptions of 
+ambiguity (r=-.55), complexity (r=-.69), inconsistency (r=-.50), and 
+unpredictability (r=.31). The appraisal of breast cancer as an opportunity was 
+strongly and statistically related to hope (r=.714).
+
+Appraisal of breast cancer as an opportunity was found to be the best 
+predictor of the level of hope in women with breast cancer. Decreased 
+perceptions of uncertainty were also found to be predictive of hope. Together 
+these two variables accounted for 56.9% of the variance in hope. Number of 
+physical symptoms, time since diagnosis, and number of positive axillary nodes 
+were found not to be significant predictors of hope.
+
+The findings offer guidance in the design of nursing interventions to enhance 
+the level of hope in women with breast cancer. To enhance a positive appraisal 
+of the event of breast cancer experience, it is important to assist women to 
+focus on a future that is possible and has rewards for them. Interventions are 
+offered that provide this sense of future. To diminish the effects of 
+perceived uncertainty on hopefulness, it is important to assist women in 
+understanding breast cancer and its treatment. Providing consistent 
+information, supporting efforts at coping, listening to, and validating 
+feelings are ways nurses may be able to assist women in reevaluating the 
+perceptions of uncertainty and its relationship to their experience with 
+breast cancer.
+

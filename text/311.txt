@@ -1,0 +1,25 @@
+Organizational Dimensions of Hospital Nursing
+
+Patricia A. Martin, P. Risner, T. Gustin, G. Jordan, L. Cox, and T. Lupo
+
+PROBLEM. The project was designed to improve understanding of the following 
+dimensions: organizational climate, professional practice climate, work 
+satisfaction, professional nursing autonomy, and communication satisfaction. 
+Prior to this study, most of the dimensions had not been studied 
+longitudinally in one setting to determine sensitivity to organizational 
+change.
+
+SAMPLE. The approximately 1200 RN staff were sampled at seven data collection 
+times from December 1990 to January 1995 with a 10-15% response rate each time 
+yielding 1217 questionnaires.
+
+METHODOLOGY. Psychometrically sound instruments were selected and printed in 
+survey booklets. Data were collected each time in a single day at 4 one-hour 
+sessions. Analysis was descriptive and inferential (eg. MANOVA, multiple 
+regression) using SAS 6.0.
+
+RESULTS. The work satisfaction dimensions show short-term response but 
+organizational climate measures found sustained differences.
+
+IMPLICATIONS. Decision making demands knowledge of the properties of the 
+measurement to interpret findings.

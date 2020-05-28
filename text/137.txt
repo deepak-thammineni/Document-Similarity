@@ -1,0 +1,33 @@
+Balance and Muscle Strength as Predictors of Frailty Among Older Adults
+
+Nancy E. Dayhoff, J. Suhrheinrich, Robert Topp, Susan Moore, and J. 
+Wigglesworth
+
+Diminshed movement and perceived poor health are indicators of human fraily. 
+Little is known about the contributions of impairments of balance and muscle 
+strength to fraily among community-residing older adults. The purpose of this 
+study was to develop empirically based criteria for classifying older adults 
+as frail or nonfrail. Predictor variables suggested by literature included 
+sensory organization of balance ankle and knee strength, and age. A step-wise 
+discriminant analysis was performed to classify older adults who reported 
+problems with performance of functional activities (World of Health 
+Organization Assessment of FUnctional Capacity) and diminished perceived 
+health, both indicators of frailty. Four conditions of sensory organization of 
+balance, as measured by the Smart Balance Master (a computerized measure of 
+stability), and isometric strength during dorsiflexion, plantar flexion and 
+knee extension, as mesured by Microfet (a hand held manual muscle tester) were 
+collected. Subjects were 84 adults living in a rural community, 60 to 88 years 
+of age, who had volunteered for an exercise intervention study. Fifteen 
+subjects were classified as frail. Contrary to expectations, only1 of the 4 
+balance measurement condidtions (F=2.97, p<.04) and only dorisflexion muscle 
+strength (F=3.14, p<.05) loaded on the discriminant function; 63.9% of the 
+grouped cases (N=56) were correctly classified. The balance measure that 
+loaded on teh function suggests the frail older adults make poor use of 
+vestibular inputs when vision is absent and somatosensory system is perturbed. 
+Poor dorsiflexion strength suggests the frail persons may have difficulty 
+elevating the front part of the foot during the swing phase of gait and 
+controlling the foot at heel strike. Impairments in these two conditions may 
+be amenable to exercise interventions to improve these specific dimensions of 
+balance and strength and contribute to decreased frailty. Implications for 
+theory and practice will be discussed.
+

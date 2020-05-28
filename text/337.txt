@@ -1,0 +1,47 @@
+Self-Reported Health and Physical Performance Status of Older Adults with 
+Arthritis: Implications for Measurement of Disability
+
+Carol C. Hogue and Sharon M. Cullinan
+
+Introduction: Over 30 million Americans report having arthritis, a generic 
+term for many diseases characterized by inflammation and joint involvement. 
+Prevalence increases with age; by 60, 49% of the population report arthritis. 
+Prevalence continues to increase with age after 60. Disablement is the effect 
+chronic conditions have on the functioning of specific body systems, and 
+people's abilities to perform expected roles in society. While not fatal, 
+osteoarthritis (OA), the most prevalent form of musculoskeletal disease, is 
+the most common cause of disability in older adults. Persons with OA have 
+reduced functional performance and aerobic power: they often limit their 
+activity because of pain. Until recently, treatment patterns restricted 
+activity. Levels of activity interact with disease effects, and both are 
+superimposed upon the declines of normal aging. In nursing research on older 
+adults at risk for disablement, investigators are faced with the choice of 
+measures of physical function: self-reported evidence or observation of actual 
+performance, or both. In this study, both methods were used, and this paper 
+reports the relationship between the two methods in a sample of older adults 
+with OA of the hip or knee.
+
+Methods: Sixty-seven ambulatory but sedentary older adults (mean age 72) who 
+reside in the community in a rural southeastern county were studied. Subjects 
+were 58% white, 88% female, had 9.6 years of education, had no severe 
+cognitive impairment, and had 2.8 chronic conditions. The Sickeness Impact 
+Profile (SIP), physical dimension, was the self-reported measure of physical 
+health. Performance measures included the 6-minute walk, integrated test of 
+spine, hip, and knee flexion and extension, functional reach, and timed 
+eighteen-foot walmk with and without a 10# bag of groceries. Covariates 
+included age, number of chronic conditions, cognitive performance, arthritis 
+pain, education, race, gender, and the psychosocial dimension of the SIP. 
+Multiple regression analyses were conducted after investigating distributions 
+and multicollinearity.
+
+Results: Five performance measures explained 52% of the variance in self-
+reported physical health: getting up from the floor, function reach, 18-foot 
+walk, 6-minute walk, and ascending stairs. Neither age in years, race, gender, 
+number of chronic condition, education, nor cognitive performance moderated 
+that relationship, but when categorical age (younger or older than 75), 
+arthritis pain, and the psychosocial dimension of the SIP were included as 
+covariates, 72% of the variance was explained. Especially in adults over 75, 
+the presence of pain, and social and emotional factors strenthen the 
+relationship between self-reported physical health and observed physical 
+performance.
+

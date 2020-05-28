@@ -1,0 +1,23 @@
+Using the Braden Scale to Predict Pressure-Ulcer Risk in a Critically-Ill 
+Population
+
+Elizabeth Carlson and Mildred G. Kemp
+
+Critically-ill patients are exposed to many factors that place them at risk 
+for developing pressure ulcers (PU). Study aims: 1) identify how often the 
+Braden Scale should be used to assess PU risk and 2) determine the relative 
+contributions of the Braden subscales to predicting pressure ulcers. This 
+predictive study of 120 critically-ill patients is being conducted in 3 
+Intensive Care Units (ICUs) at a Midwestern medical center. Every 12 hrs for 
+the first 48 hrs post-ICU admission, each subject is rated on the Braden Scale 
+and a battery of clinical data are gathered. Then these same data elements are 
+collected daily for 3 days, and every Monday, Wednesday, Friday thereafter for 
+1 month or transfer out of ICU. At the same time, another RA inspects the skin 
+and records the site and stage of any PU. Eligibility criteria: > 20 years; 
+English speaking; Medicus Type > 3 and/or intubated; and PU free. To date 111 
+subjects have completed the study. Sample: mean age of 57 yrs; mean Braden 
+score of 13.8; 55% male; 55% white, 34% black, 6.3% Hispanic; 57% medical, 38% 
+surgical and 5% respiratory. Data analysis is progressing and will include 
+Kaplan-Meier curves, logrank tests, proportional hazards models, and 
+classification methods for identifying patients at high risk.
+

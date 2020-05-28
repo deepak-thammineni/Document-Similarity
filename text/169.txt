@@ -1,0 +1,22 @@
+Morphine in the A7 Catecholamine Cell Group Produces Hyperalgesia
+
+Jeanean E. Holden and H. K. Proudfit
+
+Despite the ubiquitous nature of pain, it is poorly understood and often 
+poorly treated clinically. Understanding physiological responses to painful 
+stimuli may lead to better treatment methods. We identified methionine-
+enkephalinergic (mENK) neurons from the ventromedial medulla (VMM) that 
+project to the A7 catecholamine cell group in the dorsolateral pontine 
+tegmentum. The A7 cell group contains noradrenergic (NE) neurons that 
+innvervate the spinal cord dorsal horn and attenuate painful stimuli. To 
+determine the behavioral effect of these MENK cells, we microinjected the mu 
+receptor agonist, morphine sulfate (MS), into the A7 area of rats (n=8). 
+Because MS is usually inhibitory, we predicted that MS microinjections would 
+inhibit NE neurons, resulting in an increased response to pain, or 
+hyperalgesia. Using the tail flick analgesiometric test, we obtained a 
+significant hyperalgesic response from MS compared to saline controls at 5, 
+15, 30 and 60 minutes post injection (p<.05; Univariate ANOVA with Bonferroni 
+comparison). Our findings suggest that mENK neurons from the VMM may inhibit 
+the analgesic effect of A7 noradrenergic neurons, thus preserving the 
+protective aspects of a pain stimulus.
+

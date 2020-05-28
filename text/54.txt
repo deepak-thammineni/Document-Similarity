@@ -1,0 +1,33 @@
+Effects of Multiple Environmental Distracters on Wayfinding
+
+Barbara Therrien and Robert Hill
+
+This study explored the effects of multiple environmental distracters on 
+wayfinding ability using an established model of disorientation. Adult male 
+(n=24) and female (n=23) rats received bilateral hippocampal lesions or sham 
+surgery (controls). Animals had completed an initial wayfinding task with an 
+audio-visual cue and one visual distracter. In this study, four additional 
+distracters were introduced into the test environment. Comparison of the final 
+days of the two protocols showed the animals to be more distracted by multiple 
+distracters than by a single one. The directional heading error was greater 
+with multiple distracters (X=54.6 degress) than with the single distracter 
+(X=47.1 degress). Lesioned ainmals were more distractible when compared to 
+controls (X=56.6 degress vs X=51.6 degress, respectively). Interestingly, time 
+taken to reach the goal was comparable between male controls and male 
+bilateral lesioned animals, but the females with hippocampal (HPC) damage took 
+significantly more time to reach the goal. We concluded that, in the presence 
+of multiple environmental distracters, wayfinding performance of all animals 
+was more impaired than with one distracter. There was no progressive 
+improvement in directional heading error or time taken to reach the goal for 
+all groups over the four days of testing. It appeared that female animals were 
+more distractible than males, and female animals with bilateral hippocampal 
+lesions were most impaired. We then examined mean swim time for female animals 
+with high estrogen levels (proeserus or estrus) versus those with low estrogen 
+levels (metestrus or diestrus). No significant differences were apparent 
+between the two control groups. Interestingly, females with bilateral HPC 
+damage in proestrus or estrus on the first testing day, performed as well as 
+controls over the four test days. In contrast, females with bilateral damage, 
+beginning the learning task in metestrus or diesrus, took two to three times 
+as long to locate the goal on all test days. These data strongly suggest that 
+estrogen levels influence spatial learning and distractibility.
+

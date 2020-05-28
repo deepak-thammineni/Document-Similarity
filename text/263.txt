@@ -1,0 +1,26 @@
+The Incidence and Mortality Rate of Chronic Rejection in Lung Transplant 
+Patients
+
+Nancy M. Spector, M. Connolly, S. Li, E. Garrity, A. Montoya, and A. Husain
+
+Chronic rejection in lung transplant (LT) patients is manifested as 
+obliterative bronchiolitis (OB) and is the most common cause of late deaths 
+(>180 days) in this population. Retrospective chart reviews were done on all 
+LTs (including heart and lung) performed since 1986 (N=141) to study the 
+incidence and mortality of OB. (Error rate on the accuracy of chart data 
+retrieval < 7%.) LT pts with OB were matched to those w/o OB, on age, gender, 
+diagnosis, and date/type of LT; however, the heart-lung (HLT) sample was too 
+small for matching. Twenty-one percent (29/141) of the LTs had histologically 
+proven OB, which occurred at a mean of 478 days (+379) post LT. The incidence 
+of OB was not significantly different in the 3 types of LTs: single-lung 
+(SLT)=22% (16/74); bilateral-lung (BLT)=17% (9/52); HLT=27% (4/15). Gender was 
+not significantly different across the 3 groups. However, there was a 
+significant difference (p<.05) between the groups for age (SLT 55+7.5; DLT 
+32+13; HLT 34+16), probably because SLTs are usually done for COPD, while the 
+other 2 types are done on younger pts (eg cystic fibrosis). Mortality rates 
+were significantly different (p=.0008) in SLT pts with OB (71%) and matched 
+controls w/o OB (7%), but not significantly different in BLT pts with OB (25%) 
+and w/o OB (12.5%). Therefore, BLT pts may have better pre-op respiratory 
+reserve than SLT, perhaps due to age or pre-op diagnosis. Future nursing 
+research needs to identify predictors of better outcomes on LT pts with OB.
+

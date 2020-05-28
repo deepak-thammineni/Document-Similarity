@@ -1,0 +1,40 @@
+Measuring Anxiety in Critically Ill Patients
+
+JoAnne Herman and Elizabeth Shaw
+
+Measurement of self-report cognitive and affective data from critically ill 
+subjects can be very difficult. However, the search for solutions to this 
+challenge is necessary because knowledge about the relationships among 
+cognitive, affective, and physiological functioning of critically ill patients 
+is vital for the development of a theoretical base for critical care nursing 
+practice. Traditional instruments pose particular problems because of their 
+high cognitive demand. The visual analogue scale (VAS) requires less cognitive 
+concentration and is easier and quicker to complete than most instruments. 
+Therefore, the purpose of this study was to establish validity for a VAS to 
+measure anxiety in critically ill patients.
+Concurrent validity was tested by comparing subject scores on two instruments: 
+Speilberger State Anxiety Inventory (SAI) and a researcher generated Visual 
+Analogue Scale (VAS). Construct validity was tested by comparing subject 
+scores for those on ventilators and those not. It was hypothesized that 
+subjects on ventilators would have higher anxiety than subjects who were not 
+on ventilators.
+
+The sample consisted of 53 subjects about evenly divided between women (24) 
+and men (29). The mean age was 52 years with a range of 20-77. The majority of 
+subjects had a high school education and were Caucasian, married, and retired. 
+Twenty-four of the subjects were on a ventilator and 29 were not. After 
+informed consent was obtained, subject's blood pressure and pulse were 
+recorded. Then subjects completed the VAS and SAI. The questionnaires were 
+completed in a randomly assigned order.
+
+The mean VAS score for anxiety was 25 with a sd of 31 and a range of 0-100. 
+The mean SAI score was 40 with a standard deviation of 14 and a range of 
+20-79. The Pearson correlation between the VAS and SAI was .81. There were no 
+significant correlations between systolic blood pressure, diastolic blood 
+pressure, pulse and either the VAS or the SAI. T-test analysis of VAS scores 
+between the ventilator group and the non-ventilator group revealed a 
+statistically significant difference. Subjects in the ventilator group scored 
+significantly higher (33) than non-ventilator subjects (19). Findings from 
+this study establish preliminary validity for the VAS to measure anxiety in 
+critically ill patients.
+

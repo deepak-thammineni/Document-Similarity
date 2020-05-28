@@ -1,0 +1,65 @@
+Developement and Psychometric Evaluation of the Perceived Environmental 
+Uncertainty in Hospitals Scale
+
+Jeanne Salyer
+
+The purpose of this study was to evaluate construct validity and reliability 
+of the Perceived Environmental Uncertainty in Hospitals Scale (PEU-H). The 
+instrument was developed to measure the degree of perceived unceriainty 
+experienced by hospital staaf registered nurses (RNs). Five attributes of the 
+environment contribute to perceptions of uncertainty and guided the item 
+development process: (1) environmental dynamism, (2) environmental complexity, 
+(3) environmental dominance, (4) need for information, and (5S) confidence in 
+decision-making. Items were developed with the assistance of RNs in 
+medical-surgical, pediatric, and obstetric areas and were critiqued by a 
+expert in organizational theory and research. This process ensured that items 
+represented attributes of the environment contributing to uncertainty and were 
+consistent with conceptual definitions in the literature. Each of the 15 items 
+was rated on a scale reflecting the level of agreement with the statement 
+(1=strong agreement; 6=strong disagreement). A pilot test of the PEU-H 
+conducted on a convenience sample of RNs (N=38) working in medical-surgical, 
+critical care, pediatric, psychiatric, rehabilitation, and obstetric areas of 
+one medical center and two community hospitals revealed that items were 
+readable and clearly written, directions for completion were specific, and 
+time for completion of the instrument ranged from 5 to 8 minutes. Item 
+response frequency analysis revealed that the full range of response options 
+had been selected on all items. Cronbach's alpha for the 15-item scale was 
+.78.
+
+A second phase of instrument testing was conducted to further assess internal 
+consistency reliability, conduct an item analysis based on data from at least 
+5 subjects per item, eliminate items, and examine construct validity. A survey 
+questionnaire was distributed to a random sample of 135 staff RNs working in 
+medical-surgical and pediatric areas of a university medical center. Seventy 
+percent (n=95) of the questionnaires were returns. The sample was 91.6% 
+female. Forty-five percent of the subjects were under 30 years of age and 
+13.7% were over 45. Fifty-one percent had a baccalaureate degree in nursing. 
+Sixty-seven percent reported having three or more years of nursing experience.
+
+When each of the 15 items was examined using item-total and inter-item 
+correlation statistics, four items were eliminated because of low inter-item 
+and item-total correlations. On the 11 remaining items, item-total 
+correlations were consistently > .40. Fifty-one percent of the inter-item 
+correlations were > .30. Internal consistency reliability (Cronbach's alpha) 
+of the 11-item scale was .83, which is acceptable for a new scale.
+
+Principal components factor analysis (PCA) was performed on the 11-item scale. 
+The scree test criterion indicated one substantial factor; however, using 
+Kaiser's criterion of considering all unrotated factors with eigenvalues > 1.0 
+resulted in two factors that accounted for 50.5% of the variace. A two-factor 
+solution was explored using PCA with oblimin rotation. This solution revealed 
+one item with a ambiguous loading; hence the one-factor solution was 
+considered more interpretable. All factor loadings on the one-factor solution 
+were > .50. The eigenvalue for the factor was 4.10 and 37.3% of the variace 
+was explained.
+
+Three limitations of the 11-item version were noted. First, items measuring 
+confidence in decision making and environmental doninance were eliminated 
+because of low item-total and inter-item correlations. Second, the high 
+inter-item correlation between items measuring the impact of frequent 
+admissions and discharges and frequent transfers on/off the unit indicates 
+redundancy. Third, the instrument was tested only with RNs working in 
+medical-surgical and pediatric areas of an academic medical center. Further 
+testing of a revised instrument using a heterogeneous sample from multiple 
+sites is necessary to determine reliability and validity of the PEU-H.
+

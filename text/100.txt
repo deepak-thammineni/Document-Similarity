@@ -1,0 +1,24 @@
+Data Analysis with Partial Matching of Overlapping Samples
+
+Patricia A. Martin and B. Mann
+
+Problem. In longitudinal studies of organizations which use human subjects, 
+subjects often turn over from one time period to another. Statistical 
+methodology is available to correctly analyze such data if subject 
+identifities can be tracked; however, confidentiality considerations can make 
+such tracking difficult or impossible.
+
+Sample. Data for the secondary analysis involved survey responses.
+
+Methodology. Standard statistical methods for matched and unmatched data are 
+reviewed and an example presented illustrating the gain in power using the 
+correct analysis. These statistics are then modified to allow analysis in the 
+case where only partial information is available on matches.
+
+Results. Methodology is avialable for making proper adjustments when only 
+partial matching is possible.
+
+Implications. The results show the danger of ignoring the need to match 
+individual responses for meaningful analysis and should encourage better 
+coordination of organizational surveys.
+

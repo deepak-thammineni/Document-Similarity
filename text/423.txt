@@ -1,0 +1,49 @@
+The Possibilities and the Pitfalls of Doing a Secondary Analysis of a 
+Qualitative Data Set
+
+Pamela S. Hinds
+
+Secondary analysis is the use of an existing data set to find answers to a 
+research question that differs from the question asked in the original or 
+primary study. Secondary analyses of quantitative data sets (such as national 
+census track surveys) is a respected, common, and cost-effective approach to 
+maximizing the usefulness of the collected data (Cherlin, 1991; Gleit & 
+Graham, 1989; Lobo, 1986). In contrast, secondary analysis of qualitative data 
+sets has not been an accepted approach (Thorne, 1993) because of concerns 
+about the appropriateness of qualitative methods and their resulting data for 
+such use, including the need for a close relationship between the researcher 
+and the data. If these legitimate concerns can be adequately addressed, 
+descriptively rich qualitative data sets that will be underutilized could 
+become important sources of information.
+
+The major challenges include determining the exact research question that can 
+be validly and accurately asked of an existing qualitative data set, assessing 
+the quality of the data set, determining and comparing the nature of the 
+concepts of interest in the primary and secondary analyses, adequately 
+sensitizing the researchers conducting the secondary analysis to the context 
+of the primary study, and providing debriefing experiences for researchers 
+conducting the secondary analysis.
+
+A major pitfall is the use of research questions that are broad in scope and 
+abstract at the conceptual level. Although that kind of research question is 
+appropriate for a primary qualitative study, more defined, limited, and 
+specified research questions work best in a secondary analysis of a 
+qualitative data set. A related pitfall is not first determining what can be 
+asked of the data set. Once the research question has been determined, the 
+researcher must then assess whether the question is substantial enough to 
+merit the efforts of the secondary analysis. Another pitfall is the use of an 
+established framework for analytical purposes. Using the established framework 
+may contribute to difficult or unsolvable issues about the primary study 
+design, method, or the framework itself. Instead, using an inductive, analytic 
+approach is more likely to yield reliable and valid findings from a secondary 
+analysis. An additional difficulty is the ethical dilemma of using a data set 
+for a purpose other than what the participants in the primary study gave 
+consent.
+
+The benefits of conducting a secondary analysis of a qualitative data set 
+include the opportunities to 1) discover new information about a phenomenon or 
+process that might not have resulted from a direct inquiry, and 2) extend or 
+validate findings from the primary study. These benefits may be achieved 
+without the costs of conducting a labor-intensive, time consuming qualitative 
+study.
+

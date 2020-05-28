@@ -1,0 +1,26 @@
+Use of the LSQ and Kolb's Learning Style Model in Assessing Student Nurses
+
+Cheryl M. Bourguignon
+
+Many nursing educators use Kolb's Experiential Learning Model to assess the 
+learning styles of student nurses. At present, no reliable instrument exists 
+that demonstrates Kolb's proposed four construct model (Thinking, Watching, 
+Feeling, Doing). Kolb's original instrument, the LSI, and poor reliability and 
+only three constructs could be extracted during factor analysis rather than 
+the four proposed. Attempting to correct some of the flaws in Kolb's LSI, 
+Marshall and Merritt (1985) developed a new instrument, the Learning Style 
+Questionnaire (LSQ). After initial testing of the LSQ, the reliability was 
+much higher but again only three of Kolb's original constructs were extracted 
+during factor analysis. The purpose of this study therefore, was to determine 
+if the LSQ could be used to assess Kolb's learning styles in a sample of 
+student nurses. The sample of 274 basic and RN completion nursing students 
+ranged in age from 19-55 years (mean=27.2, sd=8.1). Exploratory factor 
+analysis on the LSQ extracted only three of Kolb's original four constructs. 
+Using LISREL for confirmatory factor analysis, the LSQ model with only three 
+latent factors (Thinking, Feeling, Doing) possessed good data-model fit (chi-
+square=5.36, 3df, p=0.148, GFI=.073, and AGFI=0.946). These results call into 
+question Kolb's original four construct learning style model. Nursing 
+educators should be skeptical about using the LSQ and Kolb's model to identify 
+the learning styles of student nurses until they are further tested and 
+revised.
+

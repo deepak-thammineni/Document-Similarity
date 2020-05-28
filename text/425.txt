@@ -1,0 +1,37 @@
+Predictors of Participation in Free Prostate Cancer Screening
+
+Martha S. Tingen and Sally P. Weinrich
+
+Prostate cancer is the most frequently diagnosed cancer in the United States 
+and the second leading cause of cancer-related deaths among men. The incidence 
+of prostate cancer has increased dramatically over the last 10 years by 50%. 
+It is estimated that in 1995, there will be 244,000 new cases of prostate 
+cancer in the United States. Additionally, estimates of prostate cancer deaths 
+will be 40,400.
+
+The purpose of this descriptive, correlational research was to investigate the 
+relationship among selected demographic factors and participation in free 
+prostate cancer screening. A conceptual map, representing an amalgamation of 
+key constructs from multiple models was developed and provided the framework 
+for this research. A randomly selected sample of 249 men, ages 40-70, were 
+recruited from churches, barbershops and senior centers in a southeastern 
+state. Data on demographic factors was obtained using the Prostate Cancer 
+Project Questionnalre. Participation in prostate cancer screening was measured 
+by complying with the American Cancer Society's Guidelines, which included 
+having a digital rectal exam (DRE) and/or a prostate-specific antigen (PSA) 
+blood test. Data analyses included descriptive statistics, correlations, 
+chi-square test of independence and logistic regression.
+
+The average participant was African-American, X = 53.7 years, a high school 
+graduate and earned between $9,601 to $25,020 per year. Predictors of 
+participation in free prostate cancer screening were race, age and income. For 
+race, white men, on average, were more likely to participate in free prostate 
+cancer screening than African-American men (*p < 0.05). Related to age, older 
+men, 60-70 years old, were on average, more likely to participate in free 
+prostate cancer screening than younger men (*p < 0.05). Specific to income, 
+men whose annual income was > $50,000 were more likely to participate in free 
+screening than those who earned between $25,021-$49,999 (*p < 0.05).
+
+Implications of these findings for theoretical and practical perspectives will 
+be presented. Additionally, recommendations for future research will be 
+identified.

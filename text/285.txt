@@ -1,0 +1,36 @@
+Perceived Barriers to Breast Cancer Services, Perceived Control in Health, and 
+Perceived Risks to Breast Cancer of African American Women
+
+Barbara A. Fowler
+
+PROBLEM: African American women suffer at a disproportionately higher 
+incidence and experience poorer prognosis for breast cancer survival compared 
+to Caucasian women and other minority groups.
+
+PURPOSE: To test the reliability and validity of an unidimensional scale 
+measuring perceived barriers to breast cancer services, perceived control in 
+health, and perceived risks to breast cancer of urban African American women.
+
+THEORETICAL FRAMEWORK: The Health Belief Model and Health Locus of Control 
+theory guided the study.
+
+METHODOLOGY: Six experts reviewed the scale for content validity. Cronbach's 
+alphas were used to determine internal consistency of the items. Factor 
+analysis and Logistic regression were used to determine construct validity of 
+the scale.
+
+SAMPLE: N=104 African American women parishoners aged 40 and above. Half were 
+married; most (98%) were under medical care of a physician; more than half 
+(57%) received a mammogram during the last year; and most (98%) were referred 
+by their physician for a mammogram.
+
+RESULTS: Moderately high alphas were obtained on the subscales measuring 
+perceived barriers to breast cancer services (.908) and perceived risks to 
+breast cancer (.867). Factor analysis confirmed separate scales. Logistic 
+Regression showed that barriers to breast cancer services predicted date of 
+last mammogram (compliance) by a HCP (p<0.04).
+
+IMPLICATIONS: Further research is warranted to identify barriers or other 
+factors that may influence use of mammogram or clinical breast examination of 
+African American women.
+

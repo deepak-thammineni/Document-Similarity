@@ -1,0 +1,37 @@
+Age Comparison of Clinical And Psychosocial Parameters in Heart Transplant 
+Patients at 6 Months Post-Op: Ages Over 60 vs Under 60
+
+Anne Jalowiec, K. Grady, C. White-Williams, S. Fazekas, M. Laff, V. Davidson-
+Bell, K. Florczak, E. Kracht, G. Willson, M. Farneti, S. Li, and L. Adams
+
+PURPOSE: To compare clinical & psychosocial parameters in two age groups of 
+heart transplant (HT) pts at 6 months post-op.
+
+RATIONALE: Previously, the age cut-off for HTs was 55; now pts as old as 70 
+are getting new hearts, so it is imperative to examine how well the older pts 
+do after HT.
+
+SAMPLE: 175 pts at 6 months post-HT. Age range: 24-71; 26% > 60. Subjects were 
+mainly male, white, & well educated, with no significant age differences in 
+any demographics.
+
+DATA: 10-year NIH study; two major medical centers.
+
+TOOLS: HT Clinical Form, HT Symptom Scale, Sickness Impact Profile, Work 
+History, Compliance Scale, HT Stressor Scale, Jalowiec Coping Scale, Quality 
+of Life Index. Psychometric strength of all tools is well supported.
+
+ANALYSIS: T-tests, chi square.
+
+RESULTS: Main significant age differences: self-care ability, ambulation,work 
+stress, coping. No significant age differences: heart function (eg: NYHA, 
+LVEF, CO, CI); kidney function (creatinine, BUN); length of HT stay; symptoms; 
+# of rejections, infections, complications; lipids; # of meds; % working; 
+satisfaction with HT; quality of life.
+
+CONCLUSIONS: In most clinical & psychosocial areas, pts > 60 did as well as 
+younger pts at 6 months after HT. Heart function was comparable in both age 
+groups.
+
+IMPLICATIONS: Findings can help improve age decisions for HT eligibility.
+
